@@ -13,7 +13,6 @@ if ($conn->connect_error) {
   die("Connection failed: " . $conn->connect_error);
 }
 
-// $sql = "SELECT * FROM choice";
 $sql = "SELECT * FROM quiz";
 $result = $conn->query($sql);
 $result_array = array();
