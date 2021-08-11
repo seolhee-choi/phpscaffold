@@ -6,8 +6,7 @@
 
 header('Access-Control-Allow-Origin : *');
 header("Access-Control-Allow-Headers: *");
-//header('Access-Control-Allow-Methods: *');
-
+header('Content-Type: application/json');
 
 $servername = "localhost";
 $username = "root";
@@ -21,45 +20,34 @@ if ($conn->connect_error) {
   die("Connection failed: " . $conn->connect_error);
 }
 
-
-header('Content-Type: application/json');
-
 //echo $_POST;
+//채점쿼리!!!!!!!!!!!!!!!!!!!!!!!!!!
 $json = file_get_contents('php://input');
 $quizResult = json_decode($json);
-var_dump(json_decode($json));
-//채점쿼리
-// function countValuesRecursive($array, $count = 0) {    
-//   foreach ($array as $value) {
-//        if (is_array($value)) {            
-//             $count = countValuesRecursive($value, $count); 
-//         } else {
-//              if ($value) {
-//                   $count++; 
-//              } 
-//         } 
-//   } 
-//   return $count; 
-// } // end func
+// print_r($quizResult);
+// echo $json;
+// exit();
 
-// $sql3 = "SELECT * FROM quiz";
-// $result3 = $conn->query($sql3);
-// $arr = array();
-//   if ($result3->num_rows > 0) {
-//     $arr[$row];
-//     $row = $result3->fetch_assoc();
-//       foreach($arr as $key => $value) {
-//         if($value === $row['answer']) {
-//         }
-        
-//       }
-//   } 
+$check_array = array();
+
+foreach($quizResult as $key => $item) {
+  $sql3 = "SELECT * FROM quiz WHERE id = '$key'";
+  $result3 = $conn->query($sql3);
   
-//echo count($value);
-//echo $arr;
+  if($row = $result3 ->fetch_assoc()){
+   if($row['answer'] === $item) { 
+    //  $check_array[$key] = $row['id']."번 문제 : 정답";
+    $check_array[$key] = 1;//정답
+   } else {
+    $check_array[$key] = 0;//틀림
+   }   
+  }
+}
+echo json_encode($check_array);
+//echo json_encode($quizResult);
+  
 exit();
 
-//echo json_last_error_msg();
 // $sql = "SELECT q.title, q.answer, c.id, c.choices FROM choice AS c JOIN quiz AS q";
 $sql = "SELECT * FROM quiz";
 $result = $conn->query($sql);
@@ -84,34 +72,14 @@ if ($result->num_rows > 0) {
         $one_array['value'] = $row['id'];
         $one_array['text'] = $row['choices'];
         $temp_array['choices'][] = $one_array;
-
-
-    //여기부터 채점쿼리
-    // $sql3 = "SELECT c.id, q.answer, COUNT(*) FROM choice AS c JOIN quiz AS q where c.quiz_id=q.id 
-    //           GROUP BY c.id,q.answer ORDER BY COUNT(*) DESC";
-    // $sql3 = "SELECT c.id, q.answer FROM choice as c JOIN quiz as q ON c.id LIKE '{$row['id']}' WHERE c.quiz_id=q.id";
-    // $result3 = $conn->query($sql3);
-    // $total_array = array();
-    //   while ($row = $result3->fetch_assoc()) {
-    //       $two_array = array();
-    //       $two_array['count'] = $row['count'];
-    //       $two_array['value'] = $row['id'];
-    //       $two_array['answer'] = $row['answer'];
-    //   }
-    //  $total_array[] = $two_array;
     }
-    
     $temp_pages_array['questions'][]=$temp_array;
   }
   // $result_array['elements'][]=$temp_pages_array;
   $result_array['elements']=$temp_pages_array;
 } 
-
-
 // echo json_encode([$result_array]);
 echo json_encode($total_array);
-
-
 
 
 $conn->close();
