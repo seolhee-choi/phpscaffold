@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 2,
+  "manifests": [
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:952b125832d79de1b5699470cb89c5ec735d40469855f8c0fb2e251ddaf75cca",
+      "size": 1892,
+      "platform": {
+        "architecture": "amd64",
+        "os": "linux",
+        "os.version": "Ubuntu 16.04.7"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "6.2.1.x86_64_linux",
+        "sh.brew.bottle.cpu.variant": "core2",
+        "sh.brew.bottle.digest": "47ec066627ce0564e7c6b5da2a3311cdcbf09762dce6bad3f0cad46c1377aabc",
+        "sh.brew.bottle.glibc.version": "2.23",
+        "sh.brew.tab": "{\"homebrew_version\":\"2.5.11-22-g66b6828\",\"changed_files\":[\"INSTALL_RECEIPT.json\",\"lib/pkgconfig/gmp.pc\",\"lib/pkgconfig/gmpxx.pc\"],\"source_modified_time\":1605379535,\"stdlib\":\"libstdcxx\",\"compiler\":\"gcc-5\",\"runtime_dependencies\":[],\"arch\":\"x86_64\",\"built_on\":{\"os\":\"Linux\",\"os_version\":\"Ubuntu 16.04.7\",\"cpu_family\":\"skylake\"}}"
+      }
+    }
+  ],
+  "annotations": {
+    "com.github.package.type": "homebrew_bottle",
+    "org.opencontainers.image.created": "2021-04-08",
+    "org.opencontainers.image.description": "GNU multiple precision arithmetic library",
+    "org.opencontainers.image.documentation": "https://formulae.brew.sh/formula/gmp",
+    "org.opencontainers.image.license": "LGPL-3.0-or-later or GPL-2.0-or-later",
+    "org.opencontainers.image.ref.name": "6.2.1",
+    "org.opencontainers.image.source": "https://github.com/Homebrew/linuxbrew-core/blob/HEAD/Formula/gmp.rb",
+    "org.opencontainers.image.title": "gmp",
+    "org.opencontainers.image.url": "https://gmplib.org/",
+    "org.opencontainers.image.vendor": "linuxbrew",
+    "org.opencontainers.image.version": "6.2.1"
+  }
+}

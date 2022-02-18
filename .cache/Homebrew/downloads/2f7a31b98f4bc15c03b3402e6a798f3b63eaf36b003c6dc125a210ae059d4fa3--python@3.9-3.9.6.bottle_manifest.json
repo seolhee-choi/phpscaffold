@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 2,
+  "manifests": [
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:2c9ed32428dac270092c8217e93a7c005578bef7f13d3fed18a74a7408c20761",
+      "size": 3303,
+      "platform": {
+        "architecture": "amd64",
+        "os": "linux",
+        "os.version": "Ubuntu 16.04.7"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "3.9.6.x86_64_linux",
+        "sh.brew.bottle.cpu.variant": "core2",
+        "sh.brew.bottle.digest": "6c3d9e9bbefaa717d7d5e7e38a05793fecf4cf36ce773c2198fed79b8069819d",
+        "sh.brew.bottle.glibc.version": "2.23",
+        "sh.brew.tab": "{\"homebrew_version\":\"3.2.0-126-g83aa3ff\",\"changed_files\":[\"bin/2to3-3.9\",\"bin/idle3.9\",\"bin/pydoc3.9\",\"bin/python3.9-config\",\"lib/python3.9/config-3.9-x86_64-linux-gnu/python-config.py\",\"lib/pkgconfig/python-3.9-embed.pc\",\"lib/pkgconfig/python-3.9.pc\",\"lib/python3.9/_sysconfigdata__linux_x86_64-linux-gnu.py\",\"lib/python3.9/config-3.9-x86_64-linux-gnu/Makefile\",\"lib/python3.9/ctypes/macholib/dyld.py\",\"lib/python3.9/sitecustomize.py\"],\"source_modified_time\":1624870669,\"compiler\":\"gcc-5\",\"runtime_dependencies\":[{\"full_name\":\"gdbm\",\"version\":\"1.20\",\"declared_directly\":true},{\"full_name\":\"mpdecimal\",\"version\":\"2.5.1\",\"declared_directly\":true},{\"full_name\":\"openssl@1.1\",\"version\":\"1.1.1k\",\"declared_directly\":true},{\"full_name\":\"ncurses\",\"version\":\"6.2\",\"declared_directly\":true},{\"full_name\":\"readline\",\"version\":\"8.1\",\"declared_directly\":true},{\"full_name\":\"zlib\",\"version\":\"1.2.11\",\"declared_directly\":true},{\"full_name\":\"sqlite\",\"version\":\"3.36.0\",\"declared_directly\":true},{\"full_name\":\"xz\",\"version\":\"5.2.5\",\"declared_directly\":true},{\"full_name\":\"bzip2\",\"version\":\"1.0.8\",\"declared_directly\":true},{\"full_name\":\"expat\",\"version\":\"2.4.1\",\"declared_directly\":true},{\"full_name\":\"libffi\",\"version\":\"3.3\",\"declared_directly\":true},{\"full_name\":\"unzip\",\"version\":\"6.0\",\"declared_directly\":true}],\"arch\":\"x86_64\",\"built_on\":{\"os\":\"Linux\",\"os_version\":\"Ubuntu 16.04.7\",\"cpu_family\":\"skylake\",\"glibc_version\":\"2.23\",\"oldest_cpu_family\":\"core2\"}}"
+      }
+    }
+  ],
+  "annotations": {
+    "com.github.package.type": "homebrew_bottle",
+    "org.opencontainers.image.created": "2021-07-04",
+    "org.opencontainers.image.description": "Interpreted, interactive, object-oriented programming language",
+    "org.opencontainers.image.documentation": "https://formulae.brew.sh/formula/python@3.9",
+    "org.opencontainers.image.license": "Python-2.0",
+    "org.opencontainers.image.ref.name": "3.9.6",
+    "org.opencontainers.image.revision": "684be38223f03f4b892460edbd9b816f9a6ed2bb",
+    "org.opencontainers.image.source": "https://github.com/Homebrew/linuxbrew-core/blob/684be38223f03f4b892460edbd9b816f9a6ed2bb/Formula/python@3.9.rb",
+    "org.opencontainers.image.title": "python@3.9",
+    "org.opencontainers.image.url": "https://www.python.org/",
+    "org.opencontainers.image.vendor": "linuxbrew",
+    "org.opencontainers.image.version": "3.9.6"
+  }
+}

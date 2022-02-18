@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 2,
+  "manifests": [
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:68fc3f0d91aeb8bca8bb11490c8d38c6e1062324939e7bd2d2f52701079e28de",
+      "size": 3226,
+      "platform": {
+        "architecture": "amd64",
+        "os": "linux",
+        "os.version": "Ubuntu 16.04.7"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "1.24.1_1.x86_64_linux",
+        "sh.brew.bottle.cpu.variant": "core2",
+        "sh.brew.bottle.digest": "456efa40c7e45319b8e16ddcd2bbbafa96b1b3bb090b63f46dc4c5862691b845",
+        "sh.brew.bottle.glibc.version": "2.23",
+        "sh.brew.tab": "{\"homebrew_version\":\"3.0.7\",\"changed_files\":[\"libexec/bin/mycli\",\"libexec/bin/pip\",\"libexec/bin/pip3\",\"libexec/bin/pip3.9\",\"libexec/bin/pygmentize\",\"libexec/bin/sqlformat\",\"INSTALL_RECEIPT.json\",\"libexec/bin/activate\",\"libexec/bin/activate.csh\",\"libexec/bin/activate.fish\",\"libexec/lib/python3.9/site-packages/homebrew_deps.pth\",\"libexec/pyvenv.cfg\"],\"source_modified_time\":1614812017,\"compiler\":\"gcc-5\",\"runtime_dependencies\":[{\"full_name\":\"openssl@1.1\",\"version\":\"1.1.1j\"},{\"full_name\":\"gdbm\",\"version\":\"1.19\"},{\"full_name\":\"mpdecimal\",\"version\":\"2.5.1\"},{\"full_name\":\"ncurses\",\"version\":\"6.2\"},{\"full_name\":\"readline\",\"version\":\"8.1\"},{\"full_name\":\"zlib\",\"version\":\"1.2.11\"},{\"full_name\":\"sqlite\",\"version\":\"3.34.1\"},{\"full_name\":\"pkg-config\",\"version\":\"0.29.2\"},{\"full_name\":\"libpthread-stubs\",\"version\":\"0.4\"},{\"full_name\":\"xorgproto\",\"version\":\"2021.3\"},{\"full_name\":\"libxau\",\"version\":\"1.0.9\"},{\"full_name\":\"libxdmcp\",\"version\":\"1.1.3\"},{\"full_name\":\"libxcb\",\"version\":\"1.14\"},{\"full_name\":\"libx11\",\"version\":\"1.7.0\"},{\"full_name\":\"libxext\",\"version\":\"1.3.4\"},{\"full_name\":\"tcl-tk\",\"version\":\"8.6.11\"},{\"full_name\":\"xz\",\"version\":\"5.2.5\"},{\"full_name\":\"bzip2\",\"version\":\"1.0.8\"},{\"full_name\":\"libffi\",\"version\":\"3.3\"},{\"full_name\":\"unzip\",\"version\":\"6.0\"},{\"full_name\":\"python@3.9\",\"version\":\"3.9.2\"},{\"full_name\":\"python-tabulate\",\"version\":\"0.8.9\"}],\"arch\":\"x86_64\",\"built_on\":{\"os\":\"Linux\",\"os_version\":\"Ubuntu 16.04.7\",\"cpu_family\":\"skylake\"}}"
+      }
+    }
+  ],
+  "annotations": {
+    "com.github.package.type": "homebrew_bottle",
+    "org.opencontainers.image.created": "2021-04-08",
+    "org.opencontainers.image.description": "CLI for MySQL with auto-completion and syntax highlighting",
+    "org.opencontainers.image.documentation": "https://formulae.brew.sh/formula/mycli",
+    "org.opencontainers.image.license": "BSD-3-Clause",
+    "org.opencontainers.image.ref.name": "1.24.1_1",
+    "org.opencontainers.image.source": "https://github.com/Homebrew/linuxbrew-core/blob/HEAD/Formula/mycli.rb",
+    "org.opencontainers.image.title": "mycli",
+    "org.opencontainers.image.url": "https://www.mycli.net/",
+    "org.opencontainers.image.vendor": "linuxbrew",
+    "org.opencontainers.image.version": "1.24.1_1"
+  }
+}

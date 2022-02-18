@@ -1,0 +1,41 @@
+# main links
+main:
+  - title: "Quick-Start Guide"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+
+docs:
+  - title: Programming/DB
+    children:
+      - title: "JAVA"
+        url: java/
+        category: "oracle"
+      - title: "PHP"
+        url: php/
+        category: "php"
+      - title: "MySQL"
+        url: mysql/
+        category: "mysql"
+  - title: Server
+    children:
+      - title: "Ubuntu"
+        url: ubuntu/
+        category: "ubuntu"
+      # - title: "Windows Server"
+      #   url: windows-server/
+      #   category: "windows-server"
+  - title: Etc
+    children:
+      - title: "정보처리기사"
+        url: certificate/
+        category: "certificate"
+      - title: "Jekyll"
+        url: jekyll/
+        category: "jekyll"

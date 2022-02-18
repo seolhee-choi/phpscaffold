@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 2,
+  "manifests": [
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:72abf8200fc898389b4b9ca159205260b492da705f39d7c5d272905b6a940de4",
+      "size": 1867,
+      "platform": {
+        "architecture": "amd64",
+        "os": "linux",
+        "os.version": "Ubuntu 16.04.7"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "6.0_7.x86_64_linux",
+        "sh.brew.bottle.cpu.variant": "core2",
+        "sh.brew.bottle.digest": "7f64b1d75f83c936125e0ae873668c992ca1f2041480f899b178959da4cafa1b",
+        "sh.brew.bottle.glibc.version": "2.23",
+        "sh.brew.tab": "{\"homebrew_version\":\"3.0.4-30-gb8448c4\",\"changed_files\":[\"INSTALL_RECEIPT.json\"],\"source_modified_time\":1240192822,\"compiler\":\"gcc-5\",\"runtime_dependencies\":[{\"full_name\":\"bzip2\",\"version\":\"1.0.8\"}],\"arch\":\"x86_64\",\"built_on\":{\"os\":\"Linux\",\"os_version\":\"Ubuntu 16.04.7\",\"cpu_family\":\"skylake\"}}"
+      }
+    }
+  ],
+  "annotations": {
+    "com.github.package.type": "homebrew_bottle",
+    "org.opencontainers.image.created": "2021-04-08",
+    "org.opencontainers.image.description": "Extraction utility for .zip compressed archives",
+    "org.opencontainers.image.documentation": "https://formulae.brew.sh/formula/unzip",
+    "org.opencontainers.image.license": "Info-ZIP",
+    "org.opencontainers.image.ref.name": "6.0_7",
+    "org.opencontainers.image.source": "https://github.com/Homebrew/linuxbrew-core/blob/HEAD/Formula/unzip.rb",
+    "org.opencontainers.image.title": "unzip",
+    "org.opencontainers.image.url": "https://infozip.sourceforge.io/UnZip.html",
+    "org.opencontainers.image.vendor": "linuxbrew",
+    "org.opencontainers.image.version": "6.0_7"
+  }
+}

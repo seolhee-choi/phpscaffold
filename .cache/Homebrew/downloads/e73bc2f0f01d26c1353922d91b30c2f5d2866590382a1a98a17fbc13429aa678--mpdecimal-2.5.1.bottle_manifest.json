@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 2,
+  "manifests": [
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:b90220cd6d5cb094f085a9fe88b2d9c042d03ca4dec86277dd78ad67ec96d27c",
+      "size": 1859,
+      "platform": {
+        "architecture": "amd64",
+        "os": "linux",
+        "os.version": "Ubuntu 16.04.7"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "2.5.1.x86_64_linux",
+        "sh.brew.bottle.cpu.variant": "core2",
+        "sh.brew.bottle.digest": "ed8fc5c5367e699f222010c2a387785f64dfa185c536843eb5f5cf3ae0b3ce3c",
+        "sh.brew.bottle.glibc.version": "2.23",
+        "sh.brew.tab": "{\"homebrew_version\":\"2.7.7-42-gdb7e4b7\",\"changed_files\":[\"INSTALL_RECEIPT.json\"],\"source_modified_time\":1611151651,\"stdlib\":\"libstdcxx\",\"compiler\":\"gcc-5\",\"runtime_dependencies\":[],\"arch\":\"x86_64\",\"built_on\":{\"os\":\"Linux\",\"os_version\":\"Ubuntu 16.04.7\",\"cpu_family\":\"broadwell\"}}"
+      }
+    }
+  ],
+  "annotations": {
+    "com.github.package.type": "homebrew_bottle",
+    "org.opencontainers.image.created": "2021-04-08",
+    "org.opencontainers.image.description": "Library for decimal floating point arithmetic",
+    "org.opencontainers.image.documentation": "https://formulae.brew.sh/formula/mpdecimal",
+    "org.opencontainers.image.license": "BSD-2-Clause",
+    "org.opencontainers.image.ref.name": "2.5.1",
+    "org.opencontainers.image.source": "https://github.com/Homebrew/linuxbrew-core/blob/HEAD/Formula/mpdecimal.rb",
+    "org.opencontainers.image.title": "mpdecimal",
+    "org.opencontainers.image.url": "https://www.bytereef.org/mpdecimal/",
+    "org.opencontainers.image.vendor": "linuxbrew",
+    "org.opencontainers.image.version": "2.5.1"
+  }
+}

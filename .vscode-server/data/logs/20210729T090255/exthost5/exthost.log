@@ -1,0 +1,155 @@
+[2021-07-29 10:16:10.473] [exthost] [info] extension host started
+[2021-07-29 10:16:10.484] [exthost] [info] Lock '/home/ashley/.vscode-server/data/User/workspaceStorage/75005075ae52af922d1b0463de1564db/vscode.lock': Lock acquired.
+[2021-07-29 10:16:10.537] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-07-29 10:16:10.537] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/debug-auto-launch/dist/extension
+[2021-07-29 10:16:10.542] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-07-29 10:16:10.542] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/git/dist/main
+[2021-07-29 10:16:10.619] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-07-29 10:16:10.619] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/github/dist/extension.js
+[2021-07-29 10:16:10.654] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-07-29 10:16:10.654] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/emmet/dist/node/emmetNodeMain
+[2021-07-29 10:16:10.663] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-07-29 10:16:10.663] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/merge-conflict/dist/mergeConflictMain
+[2021-07-29 10:16:10.665] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-07-29 10:16:10.665] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/testing-editor-contributions/dist/extension.js
+[2021-07-29 10:16:10.666] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":false,"extensionId":{"value":"eamodio.gitlens","_lower":"eamodio.gitlens"},"activationEvent":"onStartupFinished"}
+[2021-07-29 10:16:10.666] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ashley/.vscode-server/extensions/eamodio.gitlens-11.6.0/dist/gitlens
+[2021-07-29 10:16:10.755] [exthost] [info] eager extensions activated
+[2021-07-29 10:16:10.758] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-07-29 10:16:10.758] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/ms-vscode.js-debug/src/extension.js
+[2021-07-29 10:16:12.130] [exthost] [info] ExtensionService#_doActivateExtension 2gua.rainbow-brackets {"startup":false,"extensionId":{"value":"2gua.rainbow-brackets","_lower":"2gua.rainbow-brackets"},"activationEvent":"*"}
+[2021-07-29 10:16:12.130] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ashley/.vscode-server/extensions/2gua.rainbow-brackets-0.0.6/out/src/extension
+[2021-07-29 10:16:12.131] [exthost] [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css {"startup":false,"extensionId":{"value":"ecmel.vscode-html-css","_lower":"ecmel.vscode-html-css"},"activationEvent":"*"}
+[2021-07-29 10:16:12.131] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ashley/.vscode-server/extensions/ecmel.vscode-html-css-1.10.2/dist/extension.js
+[2021-07-29 10:16:12.156] [exthost] [info] ExtensionService#_doActivateExtension HookyQR.beautify {"startup":false,"extensionId":{"value":"HookyQR.beautify","_lower":"hookyqr.beautify"},"activationEvent":"*"}
+[2021-07-29 10:16:12.156] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ashley/.vscode-server/extensions/hookyqr.beautify-1.5.0/extension
+[2021-07-29 10:16:12.177] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":false,"extensionId":{"value":"ritwickdey.LiveServer","_lower":"ritwickdey.liveserver"},"activationEvent":"*"}
+[2021-07-29 10:16:12.177] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ashley/.vscode-server/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2021-07-29 10:16:15.292] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:javascript"}
+[2021-07-29 10:16:15.292] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/typescript-language-features/dist/extension
+[2021-07-29 10:18:01.545] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:typescript"}
+[2021-07-29 10:18:01.545] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/extension-editing/dist/extensionEditingMain
+[2021-07-29 10:18:09.205] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-29 10:18:15.944] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-29 11:12:13.637] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-29 11:12:13.687] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features {"startup":false,"extensionId":{"value":"vscode.markdown-language-features","_lower":"vscode.markdown-language-features"},"activationEvent":"onLanguage:markdown"}
+[2021-07-29 11:12:13.687] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/markdown-language-features/dist/extension
+[2021-07-29 11:12:13.899] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-math {"startup":false,"extensionId":{"value":"vscode.markdown-language-features","_lower":"vscode.markdown-language-features"},"activationEvent":"api"}
+[2021-07-29 11:12:13.899] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/markdown-math/dist/extension
+[2021-07-29 11:12:22.704] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-29 11:24:17.072] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-29 11:24:17.073] [exthost] [info] ExtensionService#_doActivateExtension vscode.php-language-features {"startup":false,"extensionId":{"value":"vscode.php-language-features","_lower":"vscode.php-language-features"},"activationEvent":"onLanguage:php"}
+[2021-07-29 11:24:17.073] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/php-language-features/dist/phpMain
+[2021-07-29 11:24:17.084] [exthost] [info] ExtensionService#_doActivateExtension bmewburn.vscode-intelephense-client {"startup":false,"extensionId":{"value":"bmewburn.vscode-intelephense-client","_lower":"bmewburn.vscode-intelephense-client"},"activationEvent":"onLanguage:php"}
+[2021-07-29 11:24:17.084] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ashley/.vscode-server/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension
+[2021-07-29 11:25:34.755] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-29 11:25:35.400] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-29 11:25:38.749] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-29 11:25:46.727] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-29 11:25:49.246] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-29 11:25:51.202] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-29 11:26:09.607] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-29 11:26:25.385] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-29 11:28:08.326] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-29 11:28:08.407] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"extensionId":{"value":"vscode.html-language-features","_lower":"vscode.html-language-features"},"activationEvent":"onLanguage:html"}
+[2021-07-29 11:28:08.407] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/html-language-features/client/dist/node/htmlClientMain
+[2021-07-29 11:28:12.238] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2021-07-29 11:28:12.238] [exthost] [error] undefined
+[2021-07-29 11:28:12.993] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2021-07-29 11:28:12.994] [exthost] [error] undefined
+[2021-07-29 11:28:13.154] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2021-07-29 11:28:13.154] [exthost] [error] undefined
+[2021-07-29 11:28:13.281] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2021-07-29 11:28:13.281] [exthost] [error] undefined
+[2021-07-29 11:29:15.699] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-29 11:29:25.151] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-29 11:29:26.045] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2021-07-29 11:29:26.045] [exthost] [error] undefined
+[2021-07-29 11:29:26.272] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2021-07-29 11:29:26.272] [exthost] [error] undefined
+[2021-07-29 11:29:26.368] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2021-07-29 11:29:26.368] [exthost] [error] undefined
+[2021-07-29 11:29:26.433] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2021-07-29 11:29:26.433] [exthost] [error] undefined
+[2021-07-29 11:29:26.513] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2021-07-29 11:29:26.513] [exthost] [error] undefined
+[2021-07-29 11:29:26.578] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2021-07-29 11:29:26.578] [exthost] [error] undefined
+[2021-07-29 11:29:26.704] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2021-07-29 11:29:26.704] [exthost] [error] undefined
+[2021-07-29 11:29:26.816] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2021-07-29 11:29:26.816] [exthost] [error] undefined
+[2021-07-29 11:29:26.961] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2021-07-29 11:29:26.961] [exthost] [error] undefined
+[2021-07-29 11:29:27.073] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2021-07-29 11:29:27.073] [exthost] [error] undefined
+[2021-07-29 11:29:27.152] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2021-07-29 11:29:27.152] [exthost] [error] undefined
+[2021-07-29 11:29:27.218] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2021-07-29 11:29:27.218] [exthost] [error] undefined
+[2021-07-29 11:29:27.329] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2021-07-29 11:29:27.329] [exthost] [error] undefined
+[2021-07-29 11:29:27.360] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2021-07-29 11:29:27.360] [exthost] [error] undefined
+[2021-07-29 11:29:27.440] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2021-07-29 11:29:27.440] [exthost] [error] undefined
+[2021-07-29 11:29:27.536] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2021-07-29 11:29:27.536] [exthost] [error] undefined
+[2021-07-29 11:31:00.958] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-29 11:31:36.335] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-29 11:32:09.103] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-29 11:32:40.600] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-29 11:32:51.667] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-29 11:34:40.808] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-29 11:35:15.448] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-29 11:53:09.962] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-29 11:54:53.199] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-29 11:56:12.011] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features {"startup":false,"extensionId":{"value":"vscode.css-language-features","_lower":"vscode.css-language-features"},"activationEvent":"onLanguage:css"}
+[2021-07-29 11:56:12.011] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/css-language-features/client/dist/node/cssClientMain
+[2021-07-29 11:56:12.051] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-29 11:56:14.704] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-29 11:56:15.526] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-29 11:56:16.224] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-29 11:56:35.665] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-29 11:57:44.657] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:json"}
+[2021-07-29 11:57:44.657] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/configuration-editing/dist/configurationEditingMain
+[2021-07-29 11:57:44.663] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:json"}
+[2021-07-29 11:57:44.663] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-07-29 11:57:44.704] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"onLanguage:json"}
+[2021-07-29 11:57:44.704] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/npm/dist/npmMain
+[2021-07-29 11:57:44.735] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-29 11:58:49.671] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-29 11:59:44.464] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-29 11:59:49.755] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-29 14:03:36.686] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-29 17:27:04.893] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-07-29 17:27:04.894] [exthost] [info] Lock '/home/ashley/.vscode-server/data/User/workspaceStorage/75005075ae52af922d1b0463de1564db/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2021-07-29 17:27:04.994] [exthost] [error] TypeError: Cannot read private member from an object whose class did not declare it
+	at xe (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:89:6747)
+	at Object.dispose (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:77:15639)
+	at Object.I [as dispose] (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:14:4692)
+	at u._deactivate (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:89:11367)
+	at /home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:89:9957
+	at Array.map (<anonymous>)
+	at u.deactivateAll (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:89:9945)
+	at b.terminate (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:93:723)
+	at c (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:103:31826)
+	at /home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:103:29773
+	at d.fire (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:57:1726)
+	at h.fire (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:65:15777)
+	at r._receiveMessage (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:65:21035)
+	at /home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:65:17921
+	at d.fire (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:57:1726)
+	at u.acceptChunk (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:65:13138)
+	at /home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:65:12486
+	at d.fire (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:57:1726)
+	at b._acceptChunk (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:103:19103)
+	at /home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:103:15516
+	at Socket._ (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:103:13107)
+	at Socket.emit (events.js:315:20)
+	at addChunk (internal/streams/readable.js:309:12)
+	at readableAddChunk (internal/streams/readable.js:284:9)
+	at Socket.Readable.push (internal/streams/readable.js:223:10)
+	at TCP.onStreamRead (internal/stream_base_commons.js:188:23)
+[2021-07-29 17:27:05.028] [exthost] [warning] {"name":"Canceled"}
+[2021-07-29 17:27:06.023] [exthost] [info] exiting with code 0

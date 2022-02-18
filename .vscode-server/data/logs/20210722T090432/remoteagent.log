@@ -1,0 +1,62 @@
+[2021-07-22 09:04:32.146] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-07-22 09:04:32.146] [remoteagent] [info] Extension host agent started.
+[2021-07-22 09:04:32.403] [remoteagent] [info] [::ffff:172.29.160.1][4d3e1ead][ManagementConnection] New connection established.
+[2021-07-22 09:04:32.404] [remoteagent] [info] [::ffff:172.29.160.1][c9d2b6c4][ExtensionHostConnection] New connection established.
+[2021-07-22 09:04:32.476] [remoteagent] [info] [::ffff:172.29.160.1][c9d2b6c4][ExtensionHostConnection] <517> Launched Extension Host Process.
+[2021-07-22 09:05:22.633] [remoteagent] [info] [::ffff:172.29.160.1][c8ee0654][ManagementConnection] New connection established.
+[2021-07-22 09:05:22.667] [remoteagent] [info] [::ffff:172.29.160.1][1484ca05][ExtensionHostConnection] New connection established.
+[2021-07-22 09:05:22.673] [remoteagent] [info] [::ffff:172.29.160.1][1484ca05][ExtensionHostConnection] <586> Launched Extension Host Process.
+[2021-07-22 09:05:22.712] [remoteagent] [warning] Resolved variables received without matching request 16
+[2021-07-22 09:05:22.771] [remoteagent] [warning] Resolved variables received without matching request 17
+[2021-07-22 09:05:23.184] [remoteagent] [warning] Resolved variables received without matching request 18
+[2021-07-22 09:05:23.190] [remoteagent] [warning] Resolved variables received without matching request 19
+[2021-07-22 09:05:23.190] [remoteagent] [warning] Resolved variables received without matching request 20
+[2021-07-22 09:05:24.263] [remoteagent] [warning] Resolved variables received without matching request 21
+[2021-07-22 09:05:24.318] [remoteagent] [warning] Resolved variables received without matching request 22
+[2021-07-22 09:05:24.364] [remoteagent] [warning] Resolved variables received without matching request 23
+[2021-07-22 09:05:24.411] [remoteagent] [warning] Resolved variables received without matching request 24
+[2021-07-22 09:05:24.458] [remoteagent] [warning] Resolved variables received without matching request 25
+[2021-07-22 09:05:33.200] [remoteagent] [info] [::ffff:172.29.160.1][c8ee0654][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-07-22 09:05:34.218] [remoteagent] [info] [::ffff:172.29.160.1][1484ca05][ExtensionHostConnection] <586> Extension Host Process exited with code: 0, signal: null.
+[2021-07-22 09:05:34.430] [remoteagent] [info] [::ffff:172.29.160.1][b5892113][ManagementConnection] New connection established.
+[2021-07-22 09:05:34.565] [remoteagent] [info] [::ffff:172.29.160.1][b7c0bba9][ExtensionHostConnection] New connection established.
+[2021-07-22 09:05:34.568] [remoteagent] [info] [::ffff:172.29.160.1][b7c0bba9][ExtensionHostConnection] <601> Launched Extension Host Process.
+[2021-07-22 09:05:34.657] [remoteagent] [warning] Resolved variables received without matching request 26
+[2021-07-22 09:05:34.761] [remoteagent] [warning] Resolved variables received without matching request 27
+[2021-07-22 09:05:35.158] [remoteagent] [warning] Resolved variables received without matching request 28
+[2021-07-22 09:05:35.294] [remoteagent] [warning] Resolved variables received without matching request 29
+[2021-07-22 09:05:35.307] [remoteagent] [warning] Resolved variables received without matching request 30
+[2021-07-22 09:05:35.852] [remoteagent] [warning] Resolved variables received without matching request 31
+[2021-07-22 09:05:35.853] [remoteagent] [warning] Resolved variables received without matching request 32
+[2021-07-22 09:05:35.948] [remoteagent] [warning] Resolved variables received without matching request 33
+[2021-07-22 09:05:36.005] [remoteagent] [warning] Resolved variables received without matching request 34
+[2021-07-22 09:05:36.007] [remoteagent] [warning] Resolved variables received without matching request 35
+[2021-07-22 09:05:37.824] [remoteagent] [warning] Resolved variables received without matching request 36
+[2021-07-22 09:05:37.882] [remoteagent] [warning] Resolved variables received without matching request 37
+[2021-07-22 09:05:37.930] [remoteagent] [warning] Resolved variables received without matching request 38
+[2021-07-22 09:05:37.976] [remoteagent] [warning] Resolved variables received without matching request 39
+[2021-07-22 09:05:38.022] [remoteagent] [warning] Resolved variables received without matching request 40
+[2021-07-22 09:24:39.638] [remoteagent] [warning] Resolved variables received without matching request 41
+[2021-07-22 09:24:39.692] [remoteagent] [warning] Resolved variables received without matching request 42
+[2021-07-22 09:24:39.740] [remoteagent] [warning] Resolved variables received without matching request 43
+[2021-07-22 09:24:39.789] [remoteagent] [warning] Resolved variables received without matching request 44
+[2021-07-22 09:24:39.835] [remoteagent] [warning] Resolved variables received without matching request 45
+[2021-07-22 09:24:41.640] [remoteagent] [warning] Resolved variables received without matching request 46
+[2021-07-22 09:24:41.686] [remoteagent] [warning] Resolved variables received without matching request 47
+[2021-07-22 09:24:41.734] [remoteagent] [warning] Resolved variables received without matching request 48
+[2021-07-22 09:24:41.779] [remoteagent] [warning] Resolved variables received without matching request 49
+[2021-07-22 09:24:41.826] [remoteagent] [warning] Resolved variables received without matching request 50
+[2021-07-22 18:14:39.859] [remoteagent] [info] [::ffff:172.29.160.1][4d3e1ead][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-07-22 18:14:40.895] [remoteagent] [info] [::ffff:172.29.160.1][c9d2b6c4][ExtensionHostConnection] <517> Extension Host Process exited with code: 0, signal: null.
+[2021-07-22 18:14:44.808] [remoteagent] [info] [::ffff:172.29.160.1][b5892113][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-07-22 18:14:45.865] [remoteagent] [info] [::ffff:172.29.160.1][b7c0bba9][ExtensionHostConnection] <601> Extension Host Process exited with code: 0, signal: null.
+[2021-07-22 18:14:45.865] [remoteagent] [info] Last EH closed, waiting before shutting down

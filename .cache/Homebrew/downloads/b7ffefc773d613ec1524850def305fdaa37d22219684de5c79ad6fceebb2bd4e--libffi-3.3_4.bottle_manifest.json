@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 2,
+  "manifests": [
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:1699f200d908374afd4d6a150e9145f4b8a325c86a73514f5c1cc3b9333d76fb",
+      "size": 1822,
+      "platform": {
+        "architecture": "amd64",
+        "os": "linux",
+        "os.version": "Ubuntu 16.04.7"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "3.3_4.x86_64_linux",
+        "sh.brew.bottle.cpu.variant": "core2",
+        "sh.brew.bottle.digest": "f8f38e0f46836427553fa73de7885f6b9b12bb7330dc8ccaa0529908472f2d12",
+        "sh.brew.bottle.glibc.version": "2.23",
+        "sh.brew.tab": "{\"homebrew_version\":\"3.0.5\",\"changed_files\":[\"INSTALL_RECEIPT.json\",\"lib/pkgconfig/libffi.pc\"],\"source_modified_time\":1574525816,\"compiler\":\"gcc-5\",\"runtime_dependencies\":[],\"arch\":\"x86_64\",\"built_on\":{\"os\":\"Linux\",\"os_version\":\"Ubuntu 16.04.7\",\"cpu_family\":\"broadwell\"}}"
+      }
+    }
+  ],
+  "annotations": {
+    "com.github.package.type": "homebrew_bottle",
+    "org.opencontainers.image.created": "2021-04-08",
+    "org.opencontainers.image.description": "Portable Foreign Function Interface library",
+    "org.opencontainers.image.documentation": "https://formulae.brew.sh/formula/libffi",
+    "org.opencontainers.image.license": "MIT",
+    "org.opencontainers.image.ref.name": "3.3_4",
+    "org.opencontainers.image.source": "https://github.com/Homebrew/linuxbrew-core/blob/HEAD/Formula/libffi.rb",
+    "org.opencontainers.image.title": "libffi",
+    "org.opencontainers.image.url": "https://sourceware.org/libffi/",
+    "org.opencontainers.image.vendor": "linuxbrew",
+    "org.opencontainers.image.version": "3.3_4"
+  }
+}

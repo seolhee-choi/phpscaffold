@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 2,
+  "manifests": [
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:c4dee58310187ac1ef656c467abf94718246a812f3bdfea3fb580db41ccfbcf2",
+      "size": 2164,
+      "platform": {
+        "architecture": "amd64",
+        "os": "linux",
+        "os.version": "Ubuntu 16.04.7"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "1.1.1k.x86_64_linux",
+        "sh.brew.bottle.cpu.variant": "core2",
+        "sh.brew.bottle.digest": "d7b7cc5b85d3c73a07e17a25d21f5bf805112dc8df298664e51b8722dff0a667",
+        "sh.brew.bottle.glibc.version": "2.23",
+        "sh.brew.tab": "{\"homebrew_version\":\"3.0.9-47-g5361c04\",\"changed_files\":[\"bin/c_rehash\",\"INSTALL_RECEIPT.json\",\"lib/pkgconfig/libcrypto.pc\",\"lib/pkgconfig/libssl.pc\",\"lib/pkgconfig/openssl.pc\",\"libexec/lib/perl5/x86_64-linux-gnu-thread-multi/auto/ExtUtils/MakeMaker/.packlist\",\"libexec/lib/perl5/x86_64-linux-gnu-thread-multi/auto/Test/Harness/.packlist\",\"libexec/lib/perl5/x86_64-linux-gnu-thread-multi/auto/Test/Simple/.packlist\"],\"source_modified_time\":1616678918,\"compiler\":\"gcc-5\",\"runtime_dependencies\":[],\"arch\":\"x86_64\",\"built_on\":{\"os\":\"Linux\",\"os_version\":\"Ubuntu 16.04.7\",\"cpu_family\":\"haswell\"}}"
+      }
+    }
+  ],
+  "annotations": {
+    "com.github.package.type": "homebrew_bottle",
+    "org.opencontainers.image.created": "2021-04-08",
+    "org.opencontainers.image.description": "Cryptography and SSL/TLS Toolkit",
+    "org.opencontainers.image.documentation": "https://formulae.brew.sh/formula/openssl@1.1",
+    "org.opencontainers.image.license": "OpenSSL",
+    "org.opencontainers.image.ref.name": "1.1.1k",
+    "org.opencontainers.image.source": "https://github.com/Homebrew/linuxbrew-core/blob/HEAD/Formula/openssl@1.1.rb",
+    "org.opencontainers.image.title": "openssl@1.1",
+    "org.opencontainers.image.url": "https://openssl.org/",
+    "org.opencontainers.image.vendor": "linuxbrew",
+    "org.opencontainers.image.version": "1.1.1k"
+  }
+}

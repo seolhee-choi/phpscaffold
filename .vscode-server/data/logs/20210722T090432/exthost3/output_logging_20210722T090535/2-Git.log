@@ -1,0 +1,166 @@
+Validating found git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/ashley
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :work/survey/my-app/src/App.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App.js
+> git show --textconv :work/survey/my-app/package.json
+> git ls-files --stage -- /home/ashley/work/survey/my-app/package.json
+> git show --textconv :work/survey/my-app/src/App.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App.js
+> git show --textconv :work/survey/my-app/package.json
+> git ls-files --stage -- /home/ashley/work/survey/my-app/package.json
+> git show --textconv :work/survey/my-app/src/App.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App.js
+> git check-ignore -v -z --stdin
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/ashley/work/survey/my-app/src/App.js
+> git show --textconv :work/survey/my-app/package.json
+> git ls-files --stage -- /home/ashley/work/survey/my-app/package.json
+> git show --textconv :work/survey/my-app/src/App.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App.js
+> git show --textconv :work/survey/my-app/package.json
+> git ls-files --stage -- /home/ashley/work/survey/my-app/package.json
+> git show --textconv :work/survey/my-app/src/App.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App.js
+> git show --textconv :work/survey/my-app/src/App_1.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App_1.js
+> git check-ignore -v -z --stdin
+> git show --textconv :work/survey/my-app/src/App.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App.js
+> git show --textconv :work/survey/my-app/src/App_2.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App_2.js
+> git check-ignore -v -z --stdin
+> git show --textconv :work/survey/my-app/src/App.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App.js
+> git check-ignore -v -z --stdin
+> git show --textconv :work/survey/my-app/src/components/Posts.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/components/Posts.js
+> git check-ignore -v -z --stdin
+> git show --textconv :work/survey/my-app/src/components/PostsForm.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/components/PostsForm.js
+> git check-ignore -v -z --stdin
+> git show --textconv :work/survey/my-app/src/components/Posts.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/components/Posts.js
+> git show --textconv :work/survey/my-app/src/App.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App.js
+> git show --textconv :work/survey/my-app/src/components/Posts.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/components/Posts.js
+> git show --textconv :work/survey/my-app/src/components/PostsForm.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/components/PostsForm.js
+> git show --textconv :work/survey/my-app/src/components/Posts.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/components/Posts.js
+> git show --textconv :work/survey/my-app/src/App.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App.js
+> git show --textconv :work/survey/my-app/src/App_2.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App_2.js
+> git show --textconv :work/survey/my-app/src/App_1.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App_1.js
+> git show --textconv :work/survey/my-app/src/App.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App.js
+> git show --textconv :work/survey/my-app/src/App_real.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App_real.js
+> git check-ignore -v -z --stdin
+> git show --textconv :work/survey/my-app/src/App.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App.js
+> git show --textconv :work/survey/my-app/src/App_1.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App_1.js
+> git show --textconv :work/survey/my-app/src/App.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App.js
+> git show --textconv :work/survey/my-app/src/components/Posts.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/components/Posts.js
+> git show --textconv :work/survey/my-app/package.json
+> git ls-files --stage -- /home/ashley/work/survey/my-app/package.json
+> git show --textconv :work/survey/my-app/src/App.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App.js
+> git show --textconv :work/survey/my-app/src/components/Posts.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/components/Posts.js
+> git show --textconv :work/survey/my-app/package.json
+> git ls-files --stage -- /home/ashley/work/survey/my-app/package.json
+> git show --textconv :work/survey/my-app/src/App.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App.js
+> git show --textconv :work/survey/my-app/src/components/Posts.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/components/Posts.js
+> git show --textconv :work/survey/my-app/src/App.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App.js
+> git show --textconv :work/survey/my-app/src/components/Posts.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/components/Posts.js
+> git show --textconv :work/survey/my-app/src/App.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App.js
+> git show --textconv :work/survey/my-app/src/components/Posts.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/components/Posts.js
+> git show --textconv :work/survey/my-app/src/App_real.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App_real.js
+> git show --textconv :work/survey/my-app/src/App_2.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App_2.js
+> git show --textconv :work/survey/my-app/src/App.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App.js
+> git show --textconv :work/survey/my-app/src/components/Posts.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/components/Posts.js
+> git show --textconv :work/survey/my-app/src/components/Posts copy.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/components/Posts copy.js
+> git check-ignore -v -z --stdin
+> git show --textconv :work/survey/my-app/src/components/Posts.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/components/Posts.js
+> git show --textconv :work/survey/my-app/src/components/Posts_one.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/components/Posts_one.js
+> git check-ignore -v -z --stdin
+> git show --textconv :work/survey/my-app/src/components/Posts copy.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/components/Posts copy.js
+> git show --textconv :work/survey/my-app/src/components/Posts.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/components/Posts.js
+> git show --textconv :work/survey/my-app/src/components/Posts_one.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/components/Posts_one.js
+> git show --textconv :work/survey/my-app/src/components/Posts.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/components/Posts.js
+> git show --textconv :work/survey/my-app/package.json
+> git ls-files --stage -- /home/ashley/work/survey/my-app/package.json
+> git show --textconv :work/survey/my-app/src/components/Posts.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/components/Posts.js
+> git show --textconv :work/survey/my-app/src/App.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App.js
+> git show --textconv :work/survey/my-app/src/components/Posts.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/components/Posts.js
+> git show --textconv :work/survey/my-app/src/App.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App.js
+> git show --textconv :work/survey/my-app/src/components/Posts_one.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/components/Posts_one.js
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/ashley/work/survey/my-app/src/components/Posts_one.js
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n41 -- /home/ashley/work/survey/my-app/src/components/Posts_one.js
+> git show --textconv :work/survey/my-app/src/App.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App.js
+> git show --textconv :work/survey/my-app/src/App_real.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App_real.js
+> git show --textconv :work/survey/my-app/src/App_2.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App_2.js
+> git show --textconv :work/survey/my-app/src/App_1.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App_1.js
+> git show --textconv :work/survey/my-app/src/App.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App.js
+> git show --textconv :work/survey/my-app/src/App_1.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App_1.js
+> git show --textconv :work/survey/my-app/src/App.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App.js
+> git show --textconv :work/survey/my-app/src/components/Posts.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/components/Posts.js
+> git show --textconv :work/survey/my-app/src/App.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App.js
+> git show --textconv :work/survey/my-app/src/components/Posts.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/components/Posts.js
+> git show --textconv :work/survey/my-app/src/App.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App.js
+> git show --textconv :work/survey/my-app/src/components/Posts.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/components/Posts.js
+> git show --textconv :work/survey/my-app/src/App.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App.js
+> git show --textconv :work/survey/my-app/src/components/Posts.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/components/Posts.js
+> git show --textconv :work/survey/my-app/src/App.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App.js

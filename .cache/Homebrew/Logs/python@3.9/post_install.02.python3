@@ -1,0 +1,47 @@
+2021-07-05 14:29:28 +0900
+
+/home/linuxbrew/.linuxbrew/Cellar/python@3.9/3.9.6/bin/python3
+-m
+pip
+install
+-v
+--no-deps
+--no-index
+--upgrade
+--isolated
+--target=/home/linuxbrew/.linuxbrew/lib/python3.9/site-packages
+/home/linuxbrew/.linuxbrew/Cellar/python@3.9/3.9.6/lib/python3.9/ensurepip/_bundled/setuptools-57.0.0-py3-none-any.whl
+/home/linuxbrew/.linuxbrew/Cellar/python@3.9/3.9.6/lib/python3.9/ensurepip/_bundled/pip-21.1.3-py3-none-any.whl
+/home/linuxbrew/.linuxbrew/Cellar/python@3.9/3.9.6/libexec/wheel-0.36.2-py2.py3-none-any.whl
+
+Using pip 21.1.3 from /home/linuxbrew/.linuxbrew/Cellar/python@3.9/3.9.6/lib/python3.9/site-packages/pip (python 3.9)
+Non-user install due to --prefix or --target option
+Created temporary directory: /tmp/pip-target-9fnhfiar
+Ignoring indexes: https://pypi.org/simple
+Created temporary directory: /tmp/pip-ephem-wheel-cache-nx_6jzi2
+Created temporary directory: /tmp/pip-req-tracker-18nvfbxc
+Initialized build tracking at /tmp/pip-req-tracker-18nvfbxc
+Created build tracker: /tmp/pip-req-tracker-18nvfbxc
+Entered build tracker: /tmp/pip-req-tracker-18nvfbxc
+Created temporary directory: /tmp/pip-install-m3y7h106
+Processing /home/linuxbrew/.linuxbrew/Cellar/python@3.9/3.9.6/lib/python3.9/ensurepip/_bundled/setuptools-57.0.0-py3-none-any.whl
+  Added setuptools==57.0.0 from file:///home/linuxbrew/.linuxbrew/Cellar/python%403.9/3.9.6/lib/python3.9/ensurepip/_bundled/setuptools-57.0.0-py3-none-any.whl to build tracker '/tmp/pip-req-tracker-18nvfbxc'
+  Removed setuptools==57.0.0 from file:///home/linuxbrew/.linuxbrew/Cellar/python%403.9/3.9.6/lib/python3.9/ensurepip/_bundled/setuptools-57.0.0-py3-none-any.whl from build tracker '/tmp/pip-req-tracker-18nvfbxc'
+Processing /home/linuxbrew/.linuxbrew/Cellar/python@3.9/3.9.6/lib/python3.9/ensurepip/_bundled/pip-21.1.3-py3-none-any.whl
+  Added pip==21.1.3 from file:///home/linuxbrew/.linuxbrew/Cellar/python%403.9/3.9.6/lib/python3.9/ensurepip/_bundled/pip-21.1.3-py3-none-any.whl to build tracker '/tmp/pip-req-tracker-18nvfbxc'
+  Removed pip==21.1.3 from file:///home/linuxbrew/.linuxbrew/Cellar/python%403.9/3.9.6/lib/python3.9/ensurepip/_bundled/pip-21.1.3-py3-none-any.whl from build tracker '/tmp/pip-req-tracker-18nvfbxc'
+Processing /home/linuxbrew/.linuxbrew/Cellar/python@3.9/3.9.6/libexec/wheel-0.36.2-py2.py3-none-any.whl
+  Added wheel==0.36.2 from file:///home/linuxbrew/.linuxbrew/Cellar/python%403.9/3.9.6/libexec/wheel-0.36.2-py2.py3-none-any.whl to build tracker '/tmp/pip-req-tracker-18nvfbxc'
+  Removed wheel==0.36.2 from file:///home/linuxbrew/.linuxbrew/Cellar/python%403.9/3.9.6/libexec/wheel-0.36.2-py2.py3-none-any.whl from build tracker '/tmp/pip-req-tracker-18nvfbxc'
+Created temporary directory: /tmp/pip-unpack-828uk1ho
+Installing collected packages: wheel, setuptools, pip
+
+  Creating /tmp/pip-target-9fnhfiar/bin
+  changing mode of /tmp/pip-target-9fnhfiar/bin/wheel to 755
+
+
+  changing mode of /tmp/pip-target-9fnhfiar/bin/pip to 755
+  changing mode of /tmp/pip-target-9fnhfiar/bin/pip3 to 755
+  changing mode of /tmp/pip-target-9fnhfiar/bin/pip3.9 to 755
+Successfully installed pip-21.1.3 setuptools-57.0.0 wheel-0.36.2
+Removed build tracker: '/tmp/pip-req-tracker-18nvfbxc'

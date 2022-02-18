@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 2,
+  "manifests": [
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:7bb5c8f50a217ac4f74eb46962f4f63f0e34bc181463aa8a27c07eb62c8ac605",
+      "size": 2214,
+      "platform": {
+        "architecture": "amd64",
+        "os": "linux",
+        "os.version": "Ubuntu 16.04.7"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "3.36.0.x86_64_linux",
+        "sh.brew.bottle.cpu.variant": "core2",
+        "sh.brew.bottle.digest": "1b8faf56c6f089b2538a86678652af07da8eb0db8000e684e875c1ef12be011e",
+        "sh.brew.bottle.glibc.version": "2.23",
+        "sh.brew.tab": "{\"homebrew_version\":\"3.2.0-43-g47d5150\",\"changed_files\":[\"lib/pkgconfig/sqlite3.pc\"],\"source_modified_time\":1624042349,\"compiler\":\"gcc-5\",\"runtime_dependencies\":[{\"full_name\":\"ncurses\",\"version\":\"6.2\",\"declared_directly\":false},{\"full_name\":\"readline\",\"version\":\"8.1\",\"declared_directly\":true},{\"full_name\":\"zlib\",\"version\":\"1.2.11\",\"declared_directly\":true}],\"arch\":\"x86_64\",\"built_on\":{\"os\":\"Linux\",\"os_version\":\"Ubuntu 16.04.7\",\"cpu_family\":\"haswell\",\"glibc_version\":\"2.23\",\"oldest_cpu_family\":\"core2\"}}"
+      }
+    }
+  ],
+  "annotations": {
+    "com.github.package.type": "homebrew_bottle",
+    "org.opencontainers.image.created": "2021-06-24",
+    "org.opencontainers.image.description": "Command-line interface for SQLite",
+    "org.opencontainers.image.documentation": "https://formulae.brew.sh/formula/sqlite",
+    "org.opencontainers.image.license": "blessing",
+    "org.opencontainers.image.ref.name": "3.36.0",
+    "org.opencontainers.image.revision": "dc86cb9c8aac181ad015630718325f38108566fe",
+    "org.opencontainers.image.source": "https://github.com/Homebrew/linuxbrew-core/blob/dc86cb9c8aac181ad015630718325f38108566fe/Formula/sqlite.rb",
+    "org.opencontainers.image.title": "sqlite",
+    "org.opencontainers.image.url": "https://sqlite.org/index.html",
+    "org.opencontainers.image.vendor": "linuxbrew",
+    "org.opencontainers.image.version": "3.36.0"
+  }
+}

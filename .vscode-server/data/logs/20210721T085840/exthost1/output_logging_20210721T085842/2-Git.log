@@ -1,0 +1,189 @@
+Validating found git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/ashley
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :work/survey/my-app/src/App.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App.js
+> git show --textconv :work/survey/my-app/src/test.php
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/test.php
+> git show --textconv :work/survey/my-app/package.json
+> git ls-files --stage -- /home/ashley/work/survey/my-app/package.json
+> git show --textconv :work/survey/my-app/src/test.php
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/test.php
+> git show --textconv :work/survey/my-app/package.json
+> git ls-files --stage -- /home/ashley/work/survey/my-app/package.json
+> git show --textconv :work/survey/my-app/src/test.php
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/test.php
+> git show --textconv :work/survey/my-app/package.json
+> git ls-files --stage -- /home/ashley/work/survey/my-app/package.json
+> git show --textconv :work/survey/my-app/src/App.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App.js
+> git show --textconv :work/survey/my-app/src/test.php
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/test.php
+> git show --textconv :work/survey/my-app/src/App.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App.js
+> git show --textconv :work/survey/my-app/src/test.php
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/test.php
+> git show --textconv :work/survey/my-app/src/App.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App.js
+> git show --textconv :work/survey/my-app/src/test.php
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/test.php
+> git show --textconv :work/survey/my-app/src/App.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App.js
+> git show --textconv :work/survey/my-app/src/test.php
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/test.php
+> git show --textconv :work/survey/my-app/src/App.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App.js
+> git show --textconv :work/survey/my-app/src/App.css
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App.css
+> git show --textconv :work/survey/my-app/src/App.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App.js
+> git show --textconv :work/survey/my-app/package.json
+> git ls-files --stage -- /home/ashley/work/survey/my-app/package.json
+> git show --textconv :work/survey/my-app/src/App.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App.js
+> git show --textconv :work/survey/my-app/package.json
+> git ls-files --stage -- /home/ashley/work/survey/my-app/package.json
+> git show --textconv :work/survey/my-app/src/App.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App.js
+> git show --textconv :work/survey/my-app/src/survey.html
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/survey.html
+> git check-ignore -v -z --stdin
+> git show --textconv :work/survey/survey-library/LICENSE
+> git ls-files --stage -- /home/ashley/work/survey/survey-library/LICENSE
+> git show --textconv :work/survey/my-app/src/App.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App.js
+> git show --textconv :work/survey/survey-library/index.html
+> git ls-files --stage -- /home/ashley/work/survey/survey-library/index.html
+> git show --textconv :work/survey/my-app/src/App.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App.js
+> git show --textconv :work/survey/my-app/package.json
+> git ls-files --stage -- /home/ashley/work/survey/my-app/package.json
+> git show --textconv :work/survey/my-app/src/App.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App.js
+> git show --textconv :work/survey/my-app/package.json
+> git ls-files --stage -- /home/ashley/work/survey/my-app/package.json
+> git show --textconv :work/survey/my-app/src/App.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App.js
+> git show --textconv :work/survey/my-app/src/test.php
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/test.php
+> git show --textconv :work/survey/my-app/src/App.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App.js
+> git show --textconv :work/survey/my-app/src/test.php
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/test.php
+> git show --textconv :work/survey/my-app/src/setupTests.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/setupTests.js
+> git show --textconv :work/survey/my-app/src/test.php
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/test.php
+> git show --textconv :work/survey/my-app/src/App.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App.js
+> git show --textconv :work/survey/my-app/src/test.php
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/test.php
+> git show --textconv :work/survey/my-app/src/App.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App.js
+> git show --textconv :work/survey/my-app/src/test.php
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/test.php
+> git show --textconv :work/survey/my-app/src/App.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App.js
+> git show --textconv :work/survey/my-app/src/test.php
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/test.php
+> git show --textconv :work/survey/my-app/src/App.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App.js
+> git show --textconv :work/survey/my-app/src/setupTests.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/setupTests.js
+> git show --textconv :work/survey/my-app/src/App.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App.js
+> git show --textconv :work/survey/my-app/src/test.php
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/test.php
+> git show --textconv :work/survey/my-app/src/App.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App.js
+> git show --textconv :work/survey/my-app/src/test.php
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/test.php
+> git show --textconv :work/survey/my-app/src/App.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App.js
+> git show --textconv :work/survey/my-app/src/test.php
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/test.php
+> git show --textconv :work/survey/my-app/src/App.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App.js
+> git check-ignore -v -z --stdin
+> git show --textconv :work/survey/my-app/.gitignore
+> git ls-files --stage -- /home/ashley/work/survey/my-app/.gitignore
+> git check-ignore -v -z --stdin
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/ashley/work/survey/my-app/.gitignore
+> git show --textconv :work/survey/my-app/src/test.php
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/test.php
+> git show --textconv :work/survey/my-app/package-lock.json
+> git ls-files --stage -- /home/ashley/work/survey/my-app/package-lock.json
+> git show --textconv :work/survey/my-app/package.json
+> git ls-files --stage -- /home/ashley/work/survey/my-app/package.json
+> git show --textconv :work/survey/my-app/package-lock.json
+> git ls-files --stage -- /home/ashley/work/survey/my-app/package-lock.json
+> git show --textconv :work/survey/my-app/package.json
+> git ls-files --stage -- /home/ashley/work/survey/my-app/package.json
+> git show --textconv :work/survey/my-app/src/index.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/index.js
+> git show --textconv :work/survey/my-app/src/App.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App.js
+> git show --textconv :work/survey/my-app/src/index.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/index.js
+> git show --textconv :work/survey/my-app/src/App.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App.js
+> git show --textconv :work/survey/my-app/src/index.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/index.js
+> git show --textconv :work/survey/my-app/src/App.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App.js
+> git show --textconv :work/survey/my-app/src/index.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/index.js
+> git show --textconv :work/survey/my-app/src/App.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App.js
+> git show --textconv :work/survey/my-app/src/test.php
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/test.php
+> git show --textconv :work/survey/my-app/.gitignore
+> git ls-files --stage -- /home/ashley/work/survey/my-app/.gitignore
+> git show --textconv :work/survey/my-app/src/App.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App.js
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :work/survey/my-app/test.php
+> git ls-files --stage -- /home/ashley/work/survey/my-app/test.php
+> git check-ignore -v -z --stdin
+> git show --textconv :work/survey/my-app/src/test.php
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/test.php
+> git show --textconv :work/survey/my-app/test.php
+> git ls-files --stage -- /home/ashley/work/survey/my-app/test.php
+> git show --textconv :work/survey/my-app/.gitignore
+> git ls-files --stage -- /home/ashley/work/survey/my-app/.gitignore
+> git check-ignore -v -z --stdin
+> git show --textconv :work/survey/my-app/test.php
+> git ls-files --stage -- /home/ashley/work/survey/my-app/test.php
+> git show --textconv :work/survey/my-app/src/App.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App.js
+> git show --textconv :work/survey/my-app/test.php
+> git ls-files --stage -- /home/ashley/work/survey/my-app/test.php
+> git show --textconv :work/survey/my-app/data.json
+> git ls-files --stage -- /home/ashley/work/survey/my-app/data.json
+> git check-ignore -v -z --stdin
+> git show --textconv :work/survey/my-app/test.php
+> git ls-files --stage -- /home/ashley/work/survey/my-app/test.php
+> git show --textconv :work/survey/my-app/data.json
+> git ls-files --stage -- /home/ashley/work/survey/my-app/data.json
+> git show --textconv :work/survey/my-app/src/App.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App.js
+> git show --textconv :work/survey/my-app/package.json
+> git ls-files --stage -- /home/ashley/work/survey/my-app/package.json
+> git show --textconv :work/survey/my-app/src/App.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App.js
+> git show --textconv :work/survey/my-app/package.json
+> git ls-files --stage -- /home/ashley/work/survey/my-app/package.json

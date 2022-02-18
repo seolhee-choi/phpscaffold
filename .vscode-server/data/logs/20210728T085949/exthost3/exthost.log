@@ -1,0 +1,370 @@
+[2021-07-28 09:03:43.455] [exthost] [info] extension host started
+[2021-07-28 09:03:43.471] [exthost] [info] Lock '/home/ashley/.vscode-server/data/User/workspaceStorage/fbf3b902b52c788e8e1fd2384483987c/vscode.lock': Lock acquired.
+[2021-07-28 09:03:43.533] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:javascriptreact"}
+[2021-07-28 09:03:43.533] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/typescript-language-features/dist/extension
+[2021-07-28 09:03:43.562] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-07-28 09:03:43.563] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/debug-auto-launch/dist/extension
+[2021-07-28 09:03:43.565] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-07-28 09:03:43.565] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/git/dist/main
+[2021-07-28 09:03:43.600] [exthost] [info] ExtensionService#_doActivateExtension 2gua.rainbow-brackets {"startup":true,"extensionId":{"value":"2gua.rainbow-brackets","_lower":"2gua.rainbow-brackets"},"activationEvent":"*"}
+[2021-07-28 09:03:43.600] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ashley/.vscode-server/extensions/2gua.rainbow-brackets-0.0.6/out/src/extension
+[2021-07-28 09:03:43.601] [exthost] [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css {"startup":true,"extensionId":{"value":"ecmel.vscode-html-css","_lower":"ecmel.vscode-html-css"},"activationEvent":"*"}
+[2021-07-28 09:03:43.601] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ashley/.vscode-server/extensions/ecmel.vscode-html-css-1.10.2/dist/extension.js
+[2021-07-28 09:03:43.629] [exthost] [info] ExtensionService#_doActivateExtension HookyQR.beautify {"startup":true,"extensionId":{"value":"HookyQR.beautify","_lower":"hookyqr.beautify"},"activationEvent":"*"}
+[2021-07-28 09:03:43.629] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ashley/.vscode-server/extensions/hookyqr.beautify-1.5.0/extension
+[2021-07-28 09:03:43.651] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"extensionId":{"value":"ritwickdey.LiveServer","_lower":"ritwickdey.liveserver"},"activationEvent":"*"}
+[2021-07-28 09:03:43.651] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ashley/.vscode-server/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2021-07-28 09:03:43.798] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"workspaceContains:package.json"}
+[2021-07-28 09:03:43.798] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/npm/dist/npmMain
+[2021-07-28 09:03:44.189] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-07-28 09:03:44.189] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/github/dist/extension.js
+[2021-07-28 09:03:44.292] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-07-28 09:03:44.293] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/ms-vscode.js-debug/src/extension.js
+[2021-07-28 09:03:44.607] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-07-28 09:03:44.607] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/emmet/dist/node/emmetNodeMain
+[2021-07-28 09:03:44.622] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-07-28 09:03:44.622] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/merge-conflict/dist/mergeConflictMain
+[2021-07-28 09:03:44.625] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-07-28 09:03:44.625] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/testing-editor-contributions/dist/extension.js
+[2021-07-28 09:03:44.626] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":false,"extensionId":{"value":"eamodio.gitlens","_lower":"eamodio.gitlens"},"activationEvent":"onStartupFinished"}
+[2021-07-28 09:03:44.626] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ashley/.vscode-server/extensions/eamodio.gitlens-11.6.0/dist/gitlens
+[2021-07-28 09:03:44.740] [exthost] [info] eager extensions activated
+[2021-07-28 09:03:55.373] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 5000
+[2021-07-28 09:23:02.678] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:json"}
+[2021-07-28 09:23:02.678] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/configuration-editing/dist/configurationEditingMain
+[2021-07-28 09:23:02.688] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:json"}
+[2021-07-28 09:23:02.688] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/extension-editing/dist/extensionEditingMain
+[2021-07-28 09:23:02.701] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:json"}
+[2021-07-28 09:23:02.701] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-07-28 13:23:02.289] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2021-07-28 13:23:02.291] [exthost] [error] Error: <semantic> TypeScript Server Error (4.3.5)
+Debug Failure. False expression.
+Error: Debug Failure. False expression.
+    at collectAutoImports (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:124417:26)
+    at getGlobalCompletions (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:124339:17)
+    at tryGetGlobalSymbols (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:124246:25)
+    at getCompletionData (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:124019:22)
+    at getSymbolCompletionFromEntryId (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:123593:34)
+    at Object.getCompletionEntryDetails (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:123625:36)
+    at Proxy.getCompletionEntryDetails (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:153369:35)
+    at /home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:164592:57
+    at Object.mapDefined (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:612:30)
+    at IOSession.Session.getCompletionEntryDetails (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:164590:33)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:163431:61)
+    at /home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:165210:88
+    at IOSession.Session.executeWithRequestId (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:165201:28)
+    at IOSession.Session.executeCommand (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:165210:33)
+    at IOSession.Session.onMessage (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:165236:35)
+    at Interface.<anonymous> (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:167833:31)
+    at Interface.emit (events.js:315:20)
+    at Interface._onLine (readline.js:337:10)
+    at Interface._normalWrite (readline.js:482:12)
+    at Socket.ondata (readline.js:194:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+	at Function.create (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/typescript-language-features/dist/extension.js:1:75771)
+	at dispatchResponse (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/typescript-language-features/dist/extension.js:1:69635)
+	at dispatchMessage (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/typescript-language-features/dist/extension.js:1:68494)
+	at /home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/typescript-language-features/dist/extension.js:1:67984
+	at d.fire (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:57:1726)
+	at g.onLengthData (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/typescript-language-features/dist/extension.js:1:434581)
+	at Socket.<anonymous> (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/typescript-language-features/dist/extension.js:1:434229)
+	at Socket.emit (events.js:315:20)
+	at addChunk (internal/streams/readable.js:309:12)
+	at readableAddChunk (internal/streams/readable.js:284:9)
+	at Socket.Readable.push (internal/streams/readable.js:223:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+[2021-07-28 13:23:15.540] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2021-07-28 13:23:15.540] [exthost] [error] Error: <semantic> TypeScript Server Error (4.3.5)
+Debug Failure. False expression.
+Error: Debug Failure. False expression.
+    at collectAutoImports (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:124417:26)
+    at getGlobalCompletions (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:124339:17)
+    at tryGetGlobalSymbols (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:124246:25)
+    at getCompletionData (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:124019:22)
+    at getSymbolCompletionFromEntryId (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:123593:34)
+    at Object.getCompletionEntryDetails (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:123625:36)
+    at Proxy.getCompletionEntryDetails (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:153369:35)
+    at /home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:164592:57
+    at Object.mapDefined (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:612:30)
+    at IOSession.Session.getCompletionEntryDetails (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:164590:33)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:163431:61)
+    at /home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:165210:88
+    at IOSession.Session.executeWithRequestId (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:165201:28)
+    at IOSession.Session.executeCommand (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:165210:33)
+    at IOSession.Session.onMessage (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:165236:35)
+    at Interface.<anonymous> (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:167833:31)
+    at Interface.emit (events.js:315:20)
+    at Interface._onLine (readline.js:337:10)
+    at Interface._normalWrite (readline.js:482:12)
+    at Socket.ondata (readline.js:194:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+	at Function.create (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/typescript-language-features/dist/extension.js:1:75771)
+	at dispatchResponse (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/typescript-language-features/dist/extension.js:1:69635)
+	at dispatchMessage (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/typescript-language-features/dist/extension.js:1:68494)
+	at /home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/typescript-language-features/dist/extension.js:1:67984
+	at d.fire (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:57:1726)
+	at g.onLengthData (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/typescript-language-features/dist/extension.js:1:434581)
+	at Socket.<anonymous> (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/typescript-language-features/dist/extension.js:1:434229)
+	at Socket.emit (events.js:315:20)
+	at addChunk (internal/streams/readable.js:309:12)
+	at readableAddChunk (internal/streams/readable.js:284:9)
+	at Socket.Readable.push (internal/streams/readable.js:223:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+[2021-07-28 13:23:34.815] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2021-07-28 13:23:34.815] [exthost] [error] Error: <semantic> TypeScript Server Error (4.3.5)
+Debug Failure. False expression.
+Error: Debug Failure. False expression.
+    at collectAutoImports (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:124417:26)
+    at getGlobalCompletions (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:124339:17)
+    at tryGetGlobalSymbols (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:124246:25)
+    at getCompletionData (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:124019:22)
+    at getSymbolCompletionFromEntryId (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:123593:34)
+    at Object.getCompletionEntryDetails (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:123625:36)
+    at Proxy.getCompletionEntryDetails (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:153369:35)
+    at /home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:164592:57
+    at Object.mapDefined (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:612:30)
+    at IOSession.Session.getCompletionEntryDetails (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:164590:33)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:163431:61)
+    at /home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:165210:88
+    at IOSession.Session.executeWithRequestId (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:165201:28)
+    at IOSession.Session.executeCommand (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:165210:33)
+    at IOSession.Session.onMessage (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:165236:35)
+    at Interface.<anonymous> (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:167833:31)
+    at Interface.emit (events.js:315:20)
+    at Interface._onLine (readline.js:337:10)
+    at Interface._normalWrite (readline.js:482:12)
+    at Socket.ondata (readline.js:194:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+	at Function.create (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/typescript-language-features/dist/extension.js:1:75771)
+	at dispatchResponse (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/typescript-language-features/dist/extension.js:1:69635)
+	at dispatchMessage (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/typescript-language-features/dist/extension.js:1:68494)
+	at /home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/typescript-language-features/dist/extension.js:1:67984
+	at d.fire (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:57:1726)
+	at g.onLengthData (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/typescript-language-features/dist/extension.js:1:434581)
+	at Socket.<anonymous> (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/typescript-language-features/dist/extension.js:1:434229)
+	at Socket.emit (events.js:315:20)
+	at addChunk (internal/streams/readable.js:309:12)
+	at readableAddChunk (internal/streams/readable.js:284:9)
+	at Socket.Readable.push (internal/streams/readable.js:223:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+[2021-07-28 13:24:01.778] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2021-07-28 13:24:01.778] [exthost] [error] Error: <semantic> TypeScript Server Error (4.3.5)
+Debug Failure. False expression.
+Error: Debug Failure. False expression.
+    at collectAutoImports (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:124417:26)
+    at getGlobalCompletions (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:124339:17)
+    at tryGetGlobalSymbols (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:124246:25)
+    at getCompletionData (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:124019:22)
+    at getSymbolCompletionFromEntryId (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:123593:34)
+    at Object.getCompletionEntryDetails (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:123625:36)
+    at Proxy.getCompletionEntryDetails (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:153369:35)
+    at /home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:164592:57
+    at Object.mapDefined (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:612:30)
+    at IOSession.Session.getCompletionEntryDetails (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:164590:33)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:163431:61)
+    at /home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:165210:88
+    at IOSession.Session.executeWithRequestId (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:165201:28)
+    at IOSession.Session.executeCommand (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:165210:33)
+    at IOSession.Session.onMessage (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:165236:35)
+    at Interface.<anonymous> (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:167833:31)
+    at Interface.emit (events.js:315:20)
+    at Interface._onLine (readline.js:337:10)
+    at Interface._normalWrite (readline.js:482:12)
+    at Socket.ondata (readline.js:194:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+	at Function.create (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/typescript-language-features/dist/extension.js:1:75771)
+	at dispatchResponse (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/typescript-language-features/dist/extension.js:1:69635)
+	at dispatchMessage (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/typescript-language-features/dist/extension.js:1:68494)
+	at /home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/typescript-language-features/dist/extension.js:1:67984
+	at d.fire (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:57:1726)
+	at g.onLengthData (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/typescript-language-features/dist/extension.js:1:434581)
+	at Socket.<anonymous> (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/typescript-language-features/dist/extension.js:1:434229)
+	at Socket.emit (events.js:315:20)
+	at addChunk (internal/streams/readable.js:309:12)
+	at readableAddChunk (internal/streams/readable.js:284:9)
+	at Socket.Readable.push (internal/streams/readable.js:223:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+[2021-07-28 13:25:29.263] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2021-07-28 13:25:29.263] [exthost] [error] Error: <semantic> TypeScript Server Error (4.3.5)
+Debug Failure. False expression.
+Error: Debug Failure. False expression.
+    at collectAutoImports (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:124417:26)
+    at getGlobalCompletions (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:124339:17)
+    at tryGetGlobalSymbols (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:124246:25)
+    at getCompletionData (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:124019:22)
+    at getSymbolCompletionFromEntryId (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:123593:34)
+    at Object.getCompletionEntryDetails (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:123625:36)
+    at Proxy.getCompletionEntryDetails (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:153369:35)
+    at /home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:164592:57
+    at Object.mapDefined (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:612:30)
+    at IOSession.Session.getCompletionEntryDetails (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:164590:33)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:163431:61)
+    at /home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:165210:88
+    at IOSession.Session.executeWithRequestId (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:165201:28)
+    at IOSession.Session.executeCommand (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:165210:33)
+    at IOSession.Session.onMessage (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:165236:35)
+    at Interface.<anonymous> (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:167833:31)
+    at Interface.emit (events.js:315:20)
+    at Interface._onLine (readline.js:337:10)
+    at Interface._normalWrite (readline.js:482:12)
+    at Socket.ondata (readline.js:194:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+	at Function.create (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/typescript-language-features/dist/extension.js:1:75771)
+	at dispatchResponse (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/typescript-language-features/dist/extension.js:1:69635)
+	at dispatchMessage (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/typescript-language-features/dist/extension.js:1:68494)
+	at /home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/typescript-language-features/dist/extension.js:1:67984
+	at d.fire (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:57:1726)
+	at g.onLengthData (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/typescript-language-features/dist/extension.js:1:434581)
+	at Socket.<anonymous> (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/typescript-language-features/dist/extension.js:1:434229)
+	at Socket.emit (events.js:315:20)
+	at addChunk (internal/streams/readable.js:309:12)
+	at readableAddChunk (internal/streams/readable.js:284:9)
+	at Socket.Readable.push (internal/streams/readable.js:223:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+[2021-07-28 13:25:29.263] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2021-07-28 13:25:29.263] [exthost] [error] Error: <semantic> TypeScript Server Error (4.3.5)
+Debug Failure. False expression.
+Error: Debug Failure. False expression.
+    at collectAutoImports (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:124417:26)
+    at getGlobalCompletions (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:124339:17)
+    at tryGetGlobalSymbols (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:124246:25)
+    at getCompletionData (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:124019:22)
+    at getSymbolCompletionFromEntryId (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:123593:34)
+    at Object.getCompletionEntryDetails (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:123625:36)
+    at Proxy.getCompletionEntryDetails (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:153369:35)
+    at /home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:164592:57
+    at Object.mapDefined (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:612:30)
+    at IOSession.Session.getCompletionEntryDetails (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:164590:33)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:163431:61)
+    at /home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:165210:88
+    at IOSession.Session.executeWithRequestId (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:165201:28)
+    at IOSession.Session.executeCommand (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:165210:33)
+    at IOSession.Session.onMessage (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:165236:35)
+    at Interface.<anonymous> (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:167833:31)
+    at Interface.emit (events.js:315:20)
+    at Interface._onLine (readline.js:337:10)
+    at Interface._normalWrite (readline.js:482:12)
+    at Socket.ondata (readline.js:194:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+	at Function.create (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/typescript-language-features/dist/extension.js:1:75771)
+	at dispatchResponse (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/typescript-language-features/dist/extension.js:1:69635)
+	at dispatchMessage (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/typescript-language-features/dist/extension.js:1:68494)
+	at /home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/typescript-language-features/dist/extension.js:1:67984
+	at d.fire (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:57:1726)
+	at g.onLengthData (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/typescript-language-features/dist/extension.js:1:434581)
+	at Socket.<anonymous> (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/typescript-language-features/dist/extension.js:1:434229)
+	at Socket.emit (events.js:315:20)
+	at addChunk (internal/streams/readable.js:309:12)
+	at readableAddChunk (internal/streams/readable.js:284:9)
+	at Socket.Readable.push (internal/streams/readable.js:223:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+[2021-07-28 13:26:59.002] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2021-07-28 13:26:59.002] [exthost] [error] Error: <semantic> TypeScript Server Error (4.3.5)
+Debug Failure. False expression.
+Error: Debug Failure. False expression.
+    at collectAutoImports (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:124417:26)
+    at getGlobalCompletions (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:124339:17)
+    at tryGetGlobalSymbols (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:124246:25)
+    at getCompletionData (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:124019:22)
+    at getSymbolCompletionFromEntryId (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:123593:34)
+    at Object.getCompletionEntryDetails (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:123625:36)
+    at Proxy.getCompletionEntryDetails (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:153369:35)
+    at /home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:164592:57
+    at Object.mapDefined (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:612:30)
+    at IOSession.Session.getCompletionEntryDetails (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:164590:33)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:163431:61)
+    at /home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:165210:88
+    at IOSession.Session.executeWithRequestId (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:165201:28)
+    at IOSession.Session.executeCommand (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:165210:33)
+    at IOSession.Session.onMessage (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:165236:35)
+    at Interface.<anonymous> (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:167833:31)
+    at Interface.emit (events.js:315:20)
+    at Interface._onLine (readline.js:337:10)
+    at Interface._normalWrite (readline.js:482:12)
+    at Socket.ondata (readline.js:194:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+	at Function.create (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/typescript-language-features/dist/extension.js:1:75771)
+	at dispatchResponse (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/typescript-language-features/dist/extension.js:1:69635)
+	at dispatchMessage (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/typescript-language-features/dist/extension.js:1:68494)
+	at /home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/typescript-language-features/dist/extension.js:1:67984
+	at d.fire (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:57:1726)
+	at g.onLengthData (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/typescript-language-features/dist/extension.js:1:434581)
+	at Socket.<anonymous> (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/typescript-language-features/dist/extension.js:1:434229)
+	at Socket.emit (events.js:315:20)
+	at addChunk (internal/streams/readable.js:309:12)
+	at readableAddChunk (internal/streams/readable.js:284:9)
+	at Socket.Readable.push (internal/streams/readable.js:223:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+[2021-07-28 13:51:12.269] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"extensionId":{"value":"vscode.html-language-features","_lower":"vscode.html-language-features"},"activationEvent":"onLanguage:html"}
+[2021-07-28 13:51:12.270] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/html-language-features/client/dist/node/htmlClientMain
+[2021-07-28 13:51:15.975] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features {"startup":false,"extensionId":{"value":"vscode.css-language-features","_lower":"vscode.css-language-features"},"activationEvent":"onLanguage:css"}
+[2021-07-28 13:51:15.975] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/css-language-features/client/dist/node/cssClientMain
+[2021-07-28 16:14:07.137] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2021-07-28 16:14:07.137] [exthost] [error] Error: <semantic> TypeScript Server Error (4.3.5)
+Debug Failure. Invalid container kind. SyntaxKind: ArrowFunction
+Error: Debug Failure. Invalid container kind. SyntaxKind: ArrowFunction
+    at getNodesToSearchForModifier (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:125901:30)
+    at getModifierOccurrences (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:125858:34)
+    at getHighlightSpans (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:125768:42)
+    at getSyntacticDocumentHighlights (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:125722:34)
+    at Object.getDocumentHighlights (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:125691:118)
+    at Proxy.getDocumentHighlights (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:153465:42)
+    at IOSession.Session.getDocumentHighlights (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:164219:71)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:163529:61)
+    at /home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:165210:88
+    at IOSession.Session.executeWithRequestId (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:165201:28)
+    at IOSession.Session.executeCommand (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:165210:33)
+    at IOSession.Session.onMessage (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:165236:35)
+    at Interface.<anonymous> (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/node_modules/typescript/lib/tsserver.js:167833:31)
+    at Interface.emit (events.js:315:20)
+    at Interface._onLine (readline.js:337:10)
+    at Interface._normalWrite (readline.js:482:12)
+    at Socket.ondata (readline.js:194:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+	at Function.create (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/typescript-language-features/dist/extension.js:1:75771)
+	at dispatchResponse (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/typescript-language-features/dist/extension.js:1:69635)
+	at dispatchMessage (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/typescript-language-features/dist/extension.js:1:68494)
+	at /home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/typescript-language-features/dist/extension.js:1:67984
+	at d.fire (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:57:1726)
+	at g.onLengthData (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/typescript-language-features/dist/extension.js:1:434581)
+	at Socket.<anonymous> (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/typescript-language-features/dist/extension.js:1:434229)
+	at Socket.emit (events.js:315:20)
+	at addChunk (internal/streams/readable.js:309:12)
+	at readableAddChunk (internal/streams/readable.js:284:9)
+	at Socket.Readable.push (internal/streams/readable.js:223:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+[2021-07-28 18:01:53.074] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-07-28 18:01:53.075] [exthost] [info] Lock '/home/ashley/.vscode-server/data/User/workspaceStorage/fbf3b902b52c788e8e1fd2384483987c/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2021-07-28 18:01:54.197] [exthost] [info] exiting with code 0

@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 2,
+  "manifests": [
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:f53ef2e613f13d74cce873162e07792144d06a63c355e77c3706e73c9d0a6463",
+      "size": 1950,
+      "platform": {
+        "architecture": "amd64",
+        "os": "linux",
+        "os.version": "Ubuntu 16.04.7"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "2.4.1.x86_64_linux",
+        "sh.brew.bottle.cpu.variant": "core2",
+        "sh.brew.bottle.digest": "6cb9d218fe6fbfb86d5aa69f6ac7087b6a082e9b6739a51a701c1a7f3d7d3642",
+        "sh.brew.bottle.glibc.version": "2.23",
+        "sh.brew.tab": "{\"homebrew_version\":\"3.1.9-5-g1bdfacd\",\"changed_files\":[\"lib/pkgconfig/expat.pc\"],\"source_modified_time\":1621787399,\"compiler\":\"gcc-5\",\"runtime_dependencies\":[],\"arch\":\"x86_64\",\"built_on\":{\"os\":\"Linux\",\"os_version\":\"Ubuntu 16.04.7\",\"cpu_family\":\"skylake\",\"glibc_version\":\"2.23\",\"oldest_cpu_family\":\"core2\"}}"
+      }
+    }
+  ],
+  "annotations": {
+    "com.github.package.type": "homebrew_bottle",
+    "org.opencontainers.image.created": "2021-05-25",
+    "org.opencontainers.image.description": "XML 1.0 parser",
+    "org.opencontainers.image.documentation": "https://formulae.brew.sh/formula/expat",
+    "org.opencontainers.image.license": "MIT",
+    "org.opencontainers.image.ref.name": "2.4.1",
+    "org.opencontainers.image.revision": "e5c292f51cdd66272914d99bdd72d38c244ed1bc",
+    "org.opencontainers.image.source": "https://github.com/Homebrew/linuxbrew-core/blob/e5c292f51cdd66272914d99bdd72d38c244ed1bc/Formula/expat.rb",
+    "org.opencontainers.image.title": "expat",
+    "org.opencontainers.image.url": "https://libexpat.github.io/",
+    "org.opencontainers.image.vendor": "linuxbrew",
+    "org.opencontainers.image.version": "2.4.1"
+  }
+}

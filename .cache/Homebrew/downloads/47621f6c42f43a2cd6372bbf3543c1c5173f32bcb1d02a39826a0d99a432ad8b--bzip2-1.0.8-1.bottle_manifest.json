@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 2,
+  "manifests": [
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:b2523e376c462b12ad09d8a523868b97f884896d675dc4c708cfa1d2262f0456",
+      "size": 1809,
+      "platform": {
+        "architecture": "amd64",
+        "os": "linux",
+        "os.version": "Ubuntu 16.04.7"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "1.0.8.x86_64_linux.1",
+        "sh.brew.bottle.cpu.variant": "core2",
+        "sh.brew.bottle.digest": "2a4cbb681a3aeda2361625bd10d329e47bf986feaccd50bf3a1dce7753ad42d6",
+        "sh.brew.bottle.glibc.version": "2.23",
+        "sh.brew.tab": "{\"homebrew_version\":\"2.5.9-22-g59b1309\",\"changed_files\":[\"INSTALL_RECEIPT.json\"],\"source_modified_time\":1563040227,\"compiler\":\"gcc-5\",\"runtime_dependencies\":[],\"arch\":null,\"built_on\":{\"os\":\"Linux\",\"os_version\":\"Ubuntu 16.04.7\",\"cpu_family\":\"skylake\"}}"
+      }
+    }
+  ],
+  "annotations": {
+    "com.github.package.type": "homebrew_bottle",
+    "org.opencontainers.image.created": "2021-04-08",
+    "org.opencontainers.image.description": "Freely available high-quality data compressor",
+    "org.opencontainers.image.documentation": "https://formulae.brew.sh/formula/bzip2",
+    "org.opencontainers.image.license": "bzip2-1.0.6",
+    "org.opencontainers.image.ref.name": "1.0.8-1",
+    "org.opencontainers.image.source": "https://github.com/Homebrew/linuxbrew-core/blob/HEAD/Formula/bzip2.rb",
+    "org.opencontainers.image.title": "bzip2",
+    "org.opencontainers.image.url": "https://sourceware.org/bzip2/",
+    "org.opencontainers.image.vendor": "linuxbrew",
+    "org.opencontainers.image.version": "1.0.8"
+  }
+}

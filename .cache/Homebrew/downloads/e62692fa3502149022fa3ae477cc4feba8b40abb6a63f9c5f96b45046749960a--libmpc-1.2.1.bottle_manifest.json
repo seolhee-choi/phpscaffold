@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "manifests": [
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:940ee6e8ca1800448464c02782860e9ca23703282212b5db4ffaddcc3d4200b0",
+      "size": 1867,
+      "platform": {
+        "architecture": "amd64",
+        "os": "linux",
+        "os.version": "Ubuntu 16.04.7"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "1.2.1.x86_64_linux",
+        "sh.brew.bottle.cpu.variant": "core2",
+        "sh.brew.bottle.digest": "c12f0406fb375c08d4c9f699ec2d28099088bb999fe9cceefe9145c001f24f89",
+        "sh.brew.bottle.glibc.version": "2.23",
+        "sh.brew.tab": "{\"homebrew_version\":\"2.5.6-123-gc4ae961\",\"changed_files\":[\"INSTALL_RECEIPT.json\"],\"source_modified_time\":1603211536,\"compiler\":\"gcc-5\",\"runtime_dependencies\":[{\"full_name\":\"gmp\",\"version\":\"6.2.0\"},{\"full_name\":\"mpfr\",\"version\":\"4.1.0\"}],\"arch\":null,\"built_on\":{\"os\":\"Linux\",\"os_version\":\"Ubuntu 16.04.7\",\"cpu_family\":\"skylake\"}}"
+      }
+    }
+  ],
+  "annotations": {
+    "com.github.package.type": "homebrew_bottle",
+    "org.opencontainers.image.created": "2021-04-08",
+    "org.opencontainers.image.description": "C library for the arithmetic of high precision complex numbers",
+    "org.opencontainers.image.documentation": "https://formulae.brew.sh/formula/libmpc",
+    "org.opencontainers.image.ref.name": "1.2.1",
+    "org.opencontainers.image.source": "https://github.com/Homebrew/linuxbrew-core/blob/HEAD/Formula/libmpc.rb",
+    "org.opencontainers.image.title": "libmpc",
+    "org.opencontainers.image.url": "http://www.multiprecision.org/mpc/",
+    "org.opencontainers.image.vendor": "linuxbrew",
+    "org.opencontainers.image.version": "1.2.1"
+  }
+}

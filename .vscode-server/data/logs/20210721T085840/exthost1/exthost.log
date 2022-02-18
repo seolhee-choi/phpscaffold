@@ -1,0 +1,97 @@
+[2021-07-21 08:58:41.488] [exthost] [info] extension host started
+[2021-07-21 08:58:41.506] [exthost] [info] Lock '/home/ashley/.vscode-server/data/User/workspaceStorage/c832248a8825c62fafb6623298a22173/vscode.lock': Lock acquired.
+[2021-07-21 08:58:41.561] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:javascript"}
+[2021-07-21 08:58:41.561] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/typescript-language-features/dist/extension
+[2021-07-21 08:58:41.598] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-07-21 08:58:41.598] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/debug-auto-launch/dist/extension
+[2021-07-21 08:58:41.603] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-07-21 08:58:41.603] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/git/dist/main
+[2021-07-21 08:58:41.663] [exthost] [info] ExtensionService#_doActivateExtension 2gua.rainbow-brackets {"startup":true,"extensionId":{"value":"2gua.rainbow-brackets","_lower":"2gua.rainbow-brackets"},"activationEvent":"*"}
+[2021-07-21 08:58:41.663] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ashley/.vscode-server/extensions/2gua.rainbow-brackets-0.0.6/out/src/extension
+[2021-07-21 08:58:41.666] [exthost] [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css {"startup":true,"extensionId":{"value":"ecmel.vscode-html-css","_lower":"ecmel.vscode-html-css"},"activationEvent":"*"}
+[2021-07-21 08:58:41.666] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ashley/.vscode-server/extensions/ecmel.vscode-html-css-1.10.2/dist/extension.js
+[2021-07-21 08:58:41.704] [exthost] [info] ExtensionService#_doActivateExtension HookyQR.beautify {"startup":true,"extensionId":{"value":"HookyQR.beautify","_lower":"hookyqr.beautify"},"activationEvent":"*"}
+[2021-07-21 08:58:41.704] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ashley/.vscode-server/extensions/hookyqr.beautify-1.5.0/extension
+[2021-07-21 08:58:41.749] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"extensionId":{"value":"ritwickdey.LiveServer","_lower":"ritwickdey.liveserver"},"activationEvent":"*"}
+[2021-07-21 08:58:41.749] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ashley/.vscode-server/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2021-07-21 08:58:42.329] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-07-21 08:58:42.329] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/github/dist/extension.js
+[2021-07-21 08:58:42.381] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-07-21 08:58:42.381] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/emmet/dist/node/emmetNodeMain
+[2021-07-21 08:58:42.398] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-07-21 08:58:42.398] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/merge-conflict/dist/mergeConflictMain
+[2021-07-21 08:58:42.403] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-07-21 08:58:42.403] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/testing-editor-contributions/dist/extension.js
+[2021-07-21 08:58:42.405] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":false,"extensionId":{"value":"eamodio.gitlens","_lower":"eamodio.gitlens"},"activationEvent":"onStartupFinished"}
+[2021-07-21 08:58:42.405] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ashley/.vscode-server/extensions/eamodio.gitlens-11.6.0/dist/gitlens
+[2021-07-21 08:58:42.574] [exthost] [info] eager extensions activated
+[2021-07-21 08:58:42.592] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-07-21 08:58:42.592] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/ms-vscode.js-debug/src/extension.js
+[2021-07-21 08:59:08.602] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 5000
+[2021-07-21 08:59:15.156] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:typescript"}
+[2021-07-21 08:59:15.156] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/extension-editing/dist/extensionEditingMain
+[2021-07-21 10:21:50.610] [exthost] [info] ExtensionService#_doActivateExtension vscode.php-language-features {"startup":false,"extensionId":{"value":"vscode.php-language-features","_lower":"vscode.php-language-features"},"activationEvent":"onLanguage:php"}
+[2021-07-21 10:21:50.610] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/php-language-features/dist/phpMain
+[2021-07-21 10:21:50.622] [exthost] [info] ExtensionService#_doActivateExtension bmewburn.vscode-intelephense-client {"startup":false,"extensionId":{"value":"bmewburn.vscode-intelephense-client","_lower":"bmewburn.vscode-intelephense-client"},"activationEvent":"onLanguage:php"}
+[2021-07-21 10:21:50.622] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ashley/.vscode-server/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension
+[2021-07-21 10:22:32.449] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:json"}
+[2021-07-21 10:22:32.449] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/configuration-editing/dist/configurationEditingMain
+[2021-07-21 10:22:32.457] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:json"}
+[2021-07-21 10:22:32.457] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-07-21 10:22:32.488] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"onLanguage:json"}
+[2021-07-21 10:22:32.488] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/npm/dist/npmMain
+[2021-07-21 10:44:09.831] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-server-ready {"startup":false,"extensionId":{"value":"vscode.debug-server-ready","_lower":"vscode.debug-server-ready"},"activationEvent":"onDebugResolve"}
+[2021-07-21 10:44:09.831] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/debug-server-ready/dist/extension
+[2021-07-21 10:46:04.167] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features {"startup":false,"extensionId":{"value":"vscode.css-language-features","_lower":"vscode.css-language-features"},"activationEvent":"onLanguage:css"}
+[2021-07-21 10:46:04.167] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/css-language-features/client/dist/node/cssClientMain
+[2021-07-21 11:09:52.097] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"extensionId":{"value":"vscode.html-language-features","_lower":"vscode.html-language-features"},"activationEvent":"onLanguage:html"}
+[2021-07-21 11:09:52.097] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/extensions/html-language-features/client/dist/node/htmlClientMain
+[2021-07-21 11:10:15.782] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-21 13:58:01.152] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-21 13:58:01.153] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/home/ashley/.vscode-server/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128329)
+	at w.handleFailedRequest (/home/ashley/.vscode-server/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128180)
+	at /home/ashley/.vscode-server/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:87601
+	at async M.resolveCompletionItem (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:84:184223)
+[2021-07-21 13:58:16.399] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-21 13:58:16.400] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/home/ashley/.vscode-server/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128329)
+	at w.handleFailedRequest (/home/ashley/.vscode-server/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128180)
+	at /home/ashley/.vscode-server/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:87601
+	at async M.resolveCompletionItem (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:84:184223)
+[2021-07-21 14:00:44.925] [exthost] [error] [bmewburn.vscode-intelephense-client] provider FAILED
+[2021-07-21 14:00:44.925] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/home/ashley/.vscode-server/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128329)
+	at w.handleFailedRequest (/home/ashley/.vscode-server/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:128180)
+	at /home/ashley/.vscode-server/extensions/bmewburn.vscode-intelephense-client-1.7.1/lib/extension.js:1:87601
+	at async M.resolveCompletionItem (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:84:184223)
+[2021-07-21 16:02:39.498] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-07-21 16:02:39.498] [exthost] [info] Lock '/home/ashley/.vscode-server/data/User/workspaceStorage/c832248a8825c62fafb6623298a22173/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2021-07-21 16:02:39.528] [exthost] [error] TypeError: Cannot read private member from an object whose class did not declare it
+	at xe (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:89:6747)
+	at Object.dispose (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:77:15639)
+	at Object.I [as dispose] (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:14:4692)
+	at u._deactivate (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:89:11367)
+	at /home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:89:9957
+	at Array.map (<anonymous>)
+	at u.deactivateAll (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:89:9945)
+	at b.terminate (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:93:723)
+	at c (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:103:31826)
+	at /home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:103:29773
+	at d.fire (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:57:1726)
+	at h.fire (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:65:15777)
+	at r._receiveMessage (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:65:21035)
+	at /home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:65:17921
+	at d.fire (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:57:1726)
+	at u.acceptChunk (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:65:13138)
+	at /home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:65:12486
+	at d.fire (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:57:1726)
+	at b._acceptChunk (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:103:19103)
+	at /home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:103:15516
+	at Socket._ (/home/ashley/.vscode-server/bin/c3f126316369cd610563c75b1b1725e0679adfb3/out/vs/server/remoteExtensionHostProcess.js:103:13107)
+	at Socket.emit (events.js:315:20)
+	at addChunk (internal/streams/readable.js:309:12)
+	at readableAddChunk (internal/streams/readable.js:284:9)
+	at Socket.Readable.push (internal/streams/readable.js:223:10)
+	at TCP.onStreamRead (internal/stream_base_commons.js:188:23)
+[2021-07-21 16:02:40.540] [exthost] [info] exiting with code 0

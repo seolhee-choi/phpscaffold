@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 2,
+  "manifests": [
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:a9bda7f2e88d349fbfea5df3d7cae823711f0aac3328fd39e128be2ac39deb94",
+      "size": 1943,
+      "platform": {
+        "architecture": "amd64",
+        "os": "linux",
+        "os.version": "Ubuntu 16.04.7"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "1.20.x86_64_linux",
+        "sh.brew.bottle.cpu.variant": "core2",
+        "sh.brew.bottle.digest": "0cef41f29293302f68aac94fab6d6363217de9c867aad59d41c42e3cab73589a",
+        "sh.brew.bottle.glibc.version": "2.23",
+        "sh.brew.tab": "{\"homebrew_version\":\"3.2.0-43-g47d5150\",\"changed_files\":[],\"source_modified_time\":1623925476,\"compiler\":\"gcc-5\",\"runtime_dependencies\":[],\"arch\":\"x86_64\",\"built_on\":{\"os\":\"Linux\",\"os_version\":\"Ubuntu 16.04.7\",\"cpu_family\":\"skylake\",\"glibc_version\":\"2.23\",\"oldest_cpu_family\":\"core2\"}}"
+      }
+    }
+  ],
+  "annotations": {
+    "com.github.package.type": "homebrew_bottle",
+    "org.opencontainers.image.created": "2021-06-24",
+    "org.opencontainers.image.description": "GNU database manager",
+    "org.opencontainers.image.documentation": "https://formulae.brew.sh/formula/gdbm",
+    "org.opencontainers.image.license": "GPL-3.0-or-later",
+    "org.opencontainers.image.ref.name": "1.20",
+    "org.opencontainers.image.revision": "dc86cb9c8aac181ad015630718325f38108566fe",
+    "org.opencontainers.image.source": "https://github.com/Homebrew/linuxbrew-core/blob/dc86cb9c8aac181ad015630718325f38108566fe/Formula/gdbm.rb",
+    "org.opencontainers.image.title": "gdbm",
+    "org.opencontainers.image.url": "https://www.gnu.org/software/gdbm/",
+    "org.opencontainers.image.vendor": "linuxbrew",
+    "org.opencontainers.image.version": "1.20"
+  }
+}

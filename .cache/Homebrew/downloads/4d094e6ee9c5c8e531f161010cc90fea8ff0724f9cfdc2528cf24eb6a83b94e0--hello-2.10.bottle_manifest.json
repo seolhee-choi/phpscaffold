@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 2,
+  "manifests": [
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:d671df43e6ae5ecbb3eabfec0a54669e75c148b15c7b6e15ad51fb84227ddee8",
+      "size": 1716,
+      "platform": {
+        "architecture": "amd64",
+        "os": "linux",
+        "os.version": "Ubuntu 16.04"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "2.10.x86_64_linux",
+        "sh.brew.bottle.cpu.variant": "core2",
+        "sh.brew.bottle.digest": "f81d7c0a3eee9fd62ebdecf685fbc5284e40d4a61c372d554fd45719e52a43cc",
+        "sh.brew.bottle.glibc.version": "2.23",
+        "sh.brew.tab": "{\"homebrew_version\":null,\"changed_files\":null,\"source_modified_time\":1416139241,\"compiler\":\"gcc-4.8\",\"runtime_dependencies\":null,\"arch\":null,\"built_on\":null}"
+      }
+    }
+  ],
+  "annotations": {
+    "com.github.package.type": "homebrew_bottle",
+    "org.opencontainers.image.created": "2021-04-08",
+    "org.opencontainers.image.description": "Program providing model for GNU coding standards and practices",
+    "org.opencontainers.image.documentation": "https://formulae.brew.sh/formula/hello",
+    "org.opencontainers.image.license": "GPL-3.0-or-later",
+    "org.opencontainers.image.ref.name": "2.10",
+    "org.opencontainers.image.source": "https://github.com/Homebrew/linuxbrew-core/blob/HEAD/Formula/hello.rb",
+    "org.opencontainers.image.title": "hello",
+    "org.opencontainers.image.url": "https://www.gnu.org/software/hello/",
+    "org.opencontainers.image.vendor": "linuxbrew",
+    "org.opencontainers.image.version": "2.10"
+  }
+}

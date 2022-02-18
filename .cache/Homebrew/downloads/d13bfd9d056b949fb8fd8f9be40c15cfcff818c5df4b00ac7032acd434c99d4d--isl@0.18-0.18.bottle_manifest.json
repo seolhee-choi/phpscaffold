@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "manifests": [
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:66c249a957b5790ea565dc6b2a12f7a6324cffb37bfa236187f51ddab36e179e",
+      "size": 1749,
+      "platform": {
+        "architecture": "amd64",
+        "os": "linux",
+        "os.version": "Ubuntu 16.04"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "0.18.x86_64_linux",
+        "sh.brew.bottle.cpu.variant": "core2",
+        "sh.brew.bottle.digest": "3ef95686496676a3c73c57db6eee32a9f039e9c2b7ccf173c3b1941124ef6f78",
+        "sh.brew.bottle.glibc.version": "2.23",
+        "sh.brew.tab": "{\"homebrew_version\":\"1.5.8-4-g0f5ae03\",\"changed_files\":[\"INSTALL_RECEIPT.json\",\"lib/pkgconfig/isl.pc\"],\"source_modified_time\":1482135782,\"compiler\":\"gcc-5\",\"runtime_dependencies\":[{\"full_name\":\"gmp\",\"version\":\"6.1.2\"}],\"arch\":null,\"built_on\":null}"
+      }
+    }
+  ],
+  "annotations": {
+    "com.github.package.type": "homebrew_bottle",
+    "org.opencontainers.image.created": "2021-04-08",
+    "org.opencontainers.image.description": "Integer Set Library for the polyhedral model",
+    "org.opencontainers.image.documentation": "https://formulae.brew.sh/formula/isl@0.18",
+    "org.opencontainers.image.ref.name": "0.18",
+    "org.opencontainers.image.source": "https://github.com/Homebrew/linuxbrew-core/blob/HEAD/Formula/isl@0.18.rb",
+    "org.opencontainers.image.title": "isl@0.18",
+    "org.opencontainers.image.url": "http://isl.gforge.inria.fr",
+    "org.opencontainers.image.vendor": "linuxbrew",
+    "org.opencontainers.image.version": "0.18"
+  }
+}

@@ -1,0 +1,266 @@
+Validating found git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/ashley/surveyjs-php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ashley/surveyjs-php/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :results.js
+> git ls-files --stage -- /home/ashley/surveyjs-php/results.js
+> git cat-file -s 6a16220f7d1398dfa17749f06ad4c8f083e74799
+> git show --textconv :index.js
+> git ls-files --stage -- /home/ashley/surveyjs-php/index.js
+> git cat-file -s 003a35899ce5271465c57106d9c5322538d0e6ab
+> git show --textconv :survey.js
+> git ls-files --stage -- /home/ashley/surveyjs-php/survey.js
+> git cat-file -s 44b45f503259af44dde3495d04c94aee505bd9b6
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ashley/surveyjs-php/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :README.md
+> git ls-files --stage -- /home/ashley/surveyjs-php/README.md
+> git cat-file -s 64b99450819f17b65de5ca7d4a743241185295f0
+> git show --textconv :results.js
+> git ls-files --stage -- /home/ashley/surveyjs-php/results.js
+> git cat-file -s 6a16220f7d1398dfa17749f06ad4c8f083e74799
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ashley/surveyjs-php/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git ls-files --stage -- /home/ashley/surveyjs-php/results.js
+> git cat-file -s 6a16220f7d1398dfa17749f06ad4c8f083e74799
+> git show --textconv :results.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ashley/surveyjs-php/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :index.php
+> git ls-files --stage -- /home/ashley/surveyjs-php/index.php
+> git cat-file -s cb43841a9f1ac173f74e276934f4db465b8f5f61
+> git show --textconv :results.js
+> git ls-files --stage -- /home/ashley/surveyjs-php/results.js
+> git cat-file -s 6a16220f7d1398dfa17749f06ad4c8f083e74799
+> git show --textconv :README.md
+> git ls-files --stage -- /home/ashley/surveyjs-php/README.md
+> git cat-file -s 64b99450819f17b65de5ca7d4a743241185295f0
+> git show --textconv :results.js
+> git ls-files --stage -- /home/ashley/surveyjs-php/results.js
+> git cat-file -s 6a16220f7d1398dfa17749f06ad4c8f083e74799
+> git show --textconv :survey.js
+> git ls-files --stage -- /home/ashley/surveyjs-php/survey.js
+> git cat-file -s 44b45f503259af44dde3495d04c94aee505bd9b6
+> git show --textconv :docker/postgresql-db/initdb/init.sql
+> git ls-files --stage -- /home/ashley/surveyjs-php/docker/postgresql-db/initdb/init.sql
+> git cat-file -s 9d945039780a2ba6a3a8b2af60041410a18aa2fe
+> git check-ignore -v -z --stdin
+> git show --textconv :results.js
+> git ls-files --stage -- /home/ashley/surveyjs-php/results.js
+> git cat-file -s 6a16220f7d1398dfa17749f06ad4c8f083e74799
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/ashley/surveyjs-php/results.js
+> git show --textconv :survey.js
+> git ls-files --stage -- /home/ashley/surveyjs-php/survey.js
+> git cat-file -s 44b45f503259af44dde3495d04c94aee505bd9b6
+> git show --textconv :index.php
+> git ls-files --stage -- /home/ashley/surveyjs-php/index.php
+> git cat-file -s cb43841a9f1ac173f74e276934f4db465b8f5f61
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/ashley/surveyjs-php/index.php
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :docker/surveyjs-php/src/stub.html
+> git ls-files --stage -- /home/ashley/surveyjs-php/docker/surveyjs-php/src/stub.html
+> git cat-file -s 1273d006de4193739311415ba90e0ce18857c0fa
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ashley/surveyjs-php/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ashley/surveyjs-php/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :docker/docker-compose.yml
+> git ls-files --stage -- /home/ashley/surveyjs-php/docker/docker-compose.yml
+> git cat-file -s ab486dde7534809954860bd72c331a9b4b6e55a3
+> git show --textconv :survey.js
+> git ls-files --stage -- /home/ashley/surveyjs-php/survey.js
+> git cat-file -s 44b45f503259af44dde3495d04c94aee505bd9b6
+> git show --textconv :results.js
+> git ls-files --stage -- /home/ashley/surveyjs-php/results.js
+> git cat-file -s 6a16220f7d1398dfa17749f06ad4c8f083e74799
+> git show --textconv :docker/surveyjs-php/src/stub.html
+> git ls-files --stage -- /home/ashley/surveyjs-php/docker/surveyjs-php/src/stub.html
+> git cat-file -s 1273d006de4193739311415ba90e0ce18857c0fa
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ashley/surveyjs-php/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ashley/surveyjs-php/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :results.js
+> git ls-files --stage -- /home/ashley/surveyjs-php/results.js
+> git cat-file -s 6a16220f7d1398dfa17749f06ad4c8f083e74799
+> git show --textconv :index.js
+> git ls-files --stage -- /home/ashley/surveyjs-php/index.js
+> git cat-file -s 003a35899ce5271465c57106d9c5322538d0e6ab
+> git show --textconv :lib/dispatch.php
+> git ls-files --stage -- /home/ashley/surveyjs-php/lib/dispatch.php
+> git cat-file -s 041156bbbf9ead65d391080538be34e031c8247c
+> git show --textconv :survey.js
+> git ls-files --stage -- /home/ashley/surveyjs-php/survey.js
+> git cat-file -s 44b45f503259af44dde3495d04c94aee505bd9b6
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ashley/surveyjs-php/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :index.js
+> git ls-files --stage -- /home/ashley/surveyjs-php/index.js
+> git cat-file -s 003a35899ce5271465c57106d9c5322538d0e6ab
+> git show --textconv :index.php
+> git ls-files --stage -- /home/ashley/surveyjs-php/index.php
+> git cat-file -s cb43841a9f1ac173f74e276934f4db465b8f5f61
+> git show --textconv :start.ps1
+> git ls-files --stage -- /home/ashley/surveyjs-php/start.ps1
+> git cat-file -s df9b673b3481097fb213b56c21ea6c337a1e968a
+> git show --textconv :survey.js
+> git ls-files --stage -- /home/ashley/surveyjs-php/survey.js
+> git cat-file -s 44b45f503259af44dde3495d04c94aee505bd9b6
+> git show --textconv :results.js
+> git ls-files --stage -- /home/ashley/surveyjs-php/results.js
+> git cat-file -s 6a16220f7d1398dfa17749f06ad4c8f083e74799
+> git show --textconv :index.php
+> git ls-files --stage -- /home/ashley/surveyjs-php/index.php
+> git cat-file -s cb43841a9f1ac173f74e276934f4db465b8f5f61
+> git show --textconv :index.html
+> git ls-files --stage -- /home/ashley/surveyjs-php/index.html
+> git cat-file -s c12f012f866e70366eb528c5bd8d1d9ad8493820
+> git show --textconv :results.js
+> git ls-files --stage -- /home/ashley/surveyjs-php/results.js
+> git cat-file -s 6a16220f7d1398dfa17749f06ad4c8f083e74799
+> git show --textconv :index.php
+> git ls-files --stage -- /home/ashley/surveyjs-php/index.php
+> git cat-file -s cb43841a9f1ac173f74e276934f4db465b8f5f61
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ashley/surveyjs-php/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :index.css
+> git ls-files --stage -- /home/ashley/surveyjs-php/index.css
+> git cat-file -s 888fa9dad84ec9b20a791030e675cd818b7d3f0e
+> git show --textconv :index.php
+> git ls-files --stage -- /home/ashley/surveyjs-php/index.php
+> git cat-file -s cb43841a9f1ac173f74e276934f4db465b8f5f61
+> git show --textconv :index.js
+> git ls-files --stage -- /home/ashley/surveyjs-php/index.js
+> git cat-file -s 003a35899ce5271465c57106d9c5322538d0e6ab
+> git show --textconv :index.html
+> git ls-files --stage -- /home/ashley/surveyjs-php/index.html
+> git cat-file -s c12f012f866e70366eb528c5bd8d1d9ad8493820
+> git show --textconv :index.php
+> git ls-files --stage -- /home/ashley/surveyjs-php/index.php
+> git cat-file -s cb43841a9f1ac173f74e276934f4db465b8f5f61
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ashley/surveyjs-php/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git ls-files --stage -- /home/ashley/surveyjs-php/index.php
+> git cat-file -s cb43841a9f1ac173f74e276934f4db465b8f5f61
+> git show --textconv :index.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ashley/surveyjs-php/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :composer.json
+> git ls-files --stage -- /home/ashley/surveyjs-php/composer.json
+> git cat-file -s 0967ef424bce6791893e9a57bb952f80fd536e93
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ashley/surveyjs-php/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :index.php
+> git ls-files --stage -- /home/ashley/surveyjs-php/index.php
+> git cat-file -s cb43841a9f1ac173f74e276934f4db465b8f5f61
+> git show --textconv :composer.json
+> git ls-files --stage -- /home/ashley/surveyjs-php/composer.json
+> git cat-file -s 0967ef424bce6791893e9a57bb952f80fd536e93
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ashley/surveyjs-php/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :index.php
+> git ls-files --stage -- /home/ashley/surveyjs-php/index.php
+> git cat-file -s cb43841a9f1ac173f74e276934f4db465b8f5f61
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ashley/surveyjs-php/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :results.js
+> git ls-files --stage -- /home/ashley/surveyjs-php/results.js
+> git cat-file -s 6a16220f7d1398dfa17749f06ad4c8f083e74799
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ashley/surveyjs-php/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ashley/surveyjs-php/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template

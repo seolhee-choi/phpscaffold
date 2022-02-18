@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 2,
+  "manifests": [
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:811ab1898b802e6dcd6f7a612dd5475b48bcbe409e722c6be5e393fe796a22c5",
+      "size": 2905,
+      "platform": {
+        "architecture": "amd64",
+        "os": "linux",
+        "os.version": "Ubuntu 16.04.7"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "0.8.9.x86_64_linux.1",
+        "sh.brew.bottle.cpu.variant": "core2",
+        "sh.brew.bottle.digest": "31454ce9ced3d46b709c1f2a08cda2b196bf62406cc554e20611cce9820edd03",
+        "sh.brew.bottle.glibc.version": "2.23",
+        "sh.brew.tab": "{\"homebrew_version\":\"3.0.5-68-g7fb3ea7\",\"changed_files\":[\"bin/tabulate\",\"INSTALL_RECEIPT.json\"],\"source_modified_time\":1613979114,\"compiler\":\"gcc-5\",\"runtime_dependencies\":[{\"full_name\":\"gdbm\",\"version\":\"1.19\"},{\"full_name\":\"mpdecimal\",\"version\":\"2.5.1\"},{\"full_name\":\"openssl@1.1\",\"version\":\"1.1.1j\"},{\"full_name\":\"ncurses\",\"version\":\"6.2\"},{\"full_name\":\"readline\",\"version\":\"8.1\"},{\"full_name\":\"zlib\",\"version\":\"1.2.11\"},{\"full_name\":\"sqlite\",\"version\":\"3.34.1\"},{\"full_name\":\"pkg-config\",\"version\":\"0.29.2\"},{\"full_name\":\"libpthread-stubs\",\"version\":\"0.4\"},{\"full_name\":\"xorgproto\",\"version\":\"2021.3\"},{\"full_name\":\"libxau\",\"version\":\"1.0.9\"},{\"full_name\":\"libxdmcp\",\"version\":\"1.1.3\"},{\"full_name\":\"libxcb\",\"version\":\"1.14\"},{\"full_name\":\"libx11\",\"version\":\"1.7.0\"},{\"full_name\":\"libxext\",\"version\":\"1.3.4\"},{\"full_name\":\"tcl-tk\",\"version\":\"8.6.11\"},{\"full_name\":\"xz\",\"version\":\"5.2.5\"},{\"full_name\":\"bzip2\",\"version\":\"1.0.8\"},{\"full_name\":\"libffi\",\"version\":\"3.3\"},{\"full_name\":\"unzip\",\"version\":\"6.0\"},{\"full_name\":\"python@3.9\",\"version\":\"3.9.2\"}],\"arch\":\"x86_64\",\"built_on\":{\"os\":\"Linux\",\"os_version\":\"Ubuntu 16.04.7\",\"cpu_family\":\"haswell\"}}"
+      }
+    }
+  ],
+  "annotations": {
+    "com.github.package.type": "homebrew_bottle",
+    "org.opencontainers.image.created": "2021-04-08",
+    "org.opencontainers.image.description": "Pretty-print tabular data in Python",
+    "org.opencontainers.image.documentation": "https://formulae.brew.sh/formula/python-tabulate",
+    "org.opencontainers.image.license": "MIT",
+    "org.opencontainers.image.ref.name": "0.8.9-1",
+    "org.opencontainers.image.source": "https://github.com/Homebrew/linuxbrew-core/blob/HEAD/Formula/python-tabulate.rb",
+    "org.opencontainers.image.title": "python-tabulate",
+    "org.opencontainers.image.url": "https://pypi.org/project/tabulate/",
+    "org.opencontainers.image.vendor": "linuxbrew",
+    "org.opencontainers.image.version": "0.8.9"
+  }
+}

@@ -1,0 +1,10 @@
+Validating found git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/ashley
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+Opening repository for path='/home/ashley/work/survey/my-app' failed; ex=Canceled: Canceled
+Open repository: /home/ashley
+Opening repository for path='/home/ashley/work/survey/my-app/src' failed; ex=Canceled: Canceled

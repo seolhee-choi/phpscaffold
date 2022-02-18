@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "manifests": [
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:ba017a86c2bb03c8ec1e7513684d178db4479792fa90bfdbbd72f00b90952723",
+      "size": 1845,
+      "platform": {
+        "architecture": "amd64",
+        "os": "linux",
+        "os.version": "Ubuntu 16.04"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "6.2.x86_64_linux",
+        "sh.brew.bottle.cpu.variant": "core2",
+        "sh.brew.bottle.digest": "fc5a0983a8afae8ef46945f3bec9dba9d66e81e879027d100d05088ea6f8043d",
+        "sh.brew.bottle.glibc.version": "2.23",
+        "sh.brew.tab": "{\"homebrew_version\":\"2.2.6-27-g3317b00\",\"changed_files\":[\"bin/ncursesw6-config\",\"INSTALL_RECEIPT.json\",\"lib/pkgconfig/formw.pc\",\"lib/pkgconfig/menuw.pc\",\"lib/pkgconfig/ncurses++w.pc\",\"lib/pkgconfig/ncursesw.pc\",\"lib/pkgconfig/panelw.pc\",\"test/Makefile\"],\"source_modified_time\":1581474081,\"compiler\":\"gcc-5\",\"runtime_dependencies\":[],\"arch\":null,\"built_on\":null}"
+      }
+    }
+  ],
+  "annotations": {
+    "com.github.package.type": "homebrew_bottle",
+    "org.opencontainers.image.created": "2021-04-08",
+    "org.opencontainers.image.description": "Text-based UI library",
+    "org.opencontainers.image.documentation": "https://formulae.brew.sh/formula/ncurses",
+    "org.opencontainers.image.ref.name": "6.2",
+    "org.opencontainers.image.source": "https://github.com/Homebrew/linuxbrew-core/blob/HEAD/Formula/ncurses.rb",
+    "org.opencontainers.image.title": "ncurses",
+    "org.opencontainers.image.url": "https://www.gnu.org/software/ncurses/",
+    "org.opencontainers.image.vendor": "linuxbrew",
+    "org.opencontainers.image.version": "6.2"
+  }
+}

@@ -1,0 +1,11 @@
+2021-07-05 14:29:25 +0900
+
+/home/linuxbrew/.linuxbrew/Cellar/python@3.9/3.9.6/bin/python3
+-m
+ensurepip
+
+Looking in links: /tmp/tmpruezrws5
+Processing /tmp/tmpruezrws5/setuptools-57.0.0-py3-none-any.whl
+Processing /tmp/tmpruezrws5/pip-21.1.3-py3-none-any.whl
+Installing collected packages: setuptools, pip
+Successfully installed pip-21.1.3 setuptools-57.0.0

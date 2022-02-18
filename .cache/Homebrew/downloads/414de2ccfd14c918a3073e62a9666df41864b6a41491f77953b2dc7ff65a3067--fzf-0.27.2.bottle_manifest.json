@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 2,
+  "manifests": [
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:ad3dfd0116e6dad151f977ab94b1fa061e01e79ee5ebb39a4dba7b2847d8d2d6",
+      "size": 2025,
+      "platform": {
+        "architecture": "amd64",
+        "os": "linux",
+        "os.version": "Ubuntu 16.04.7"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "0.27.2.x86_64_linux",
+        "sh.brew.bottle.cpu.variant": "core2",
+        "sh.brew.bottle.digest": "9ba0e0df8e7b002f8a8085d2571470ff5916bfeb049f48129ac6416a1f026892",
+        "sh.brew.bottle.glibc.version": "2.23",
+        "sh.brew.tab": "{\"homebrew_version\":\"3.1.9-90-gf9dd12e\",\"changed_files\":[],\"source_modified_time\":1622534424,\"compiler\":\"gcc-5\",\"runtime_dependencies\":[{\"full_name\":\"ncurses\",\"version\":\"6.2\",\"declared_directly\":true}],\"arch\":\"x86_64\",\"built_on\":{\"os\":\"Linux\",\"os_version\":\"Ubuntu 16.04.7\",\"cpu_family\":\"skylake\",\"glibc_version\":\"2.23\",\"oldest_cpu_family\":\"core2\"}}"
+      }
+    }
+  ],
+  "annotations": {
+    "com.github.package.type": "homebrew_bottle",
+    "org.opencontainers.image.created": "2021-06-01",
+    "org.opencontainers.image.description": "Command-line fuzzy finder written in Go",
+    "org.opencontainers.image.documentation": "https://formulae.brew.sh/formula/fzf",
+    "org.opencontainers.image.license": "MIT",
+    "org.opencontainers.image.ref.name": "0.27.2",
+    "org.opencontainers.image.revision": "8d7cd6ab1cd851008289194c43b3b74fff3a27d2",
+    "org.opencontainers.image.source": "https://github.com/Homebrew/linuxbrew-core/blob/8d7cd6ab1cd851008289194c43b3b74fff3a27d2/Formula/fzf.rb",
+    "org.opencontainers.image.title": "fzf",
+    "org.opencontainers.image.url": "https://github.com/junegunn/fzf",
+    "org.opencontainers.image.vendor": "linuxbrew",
+    "org.opencontainers.image.version": "0.27.2"
+  }
+}

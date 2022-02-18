@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 2,
+  "manifests": [
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:6d468eaec10fbd05f5e182febc60a9f1b56f822f86214900e52115fe658188a5",
+      "size": 2696,
+      "platform": {
+        "architecture": "amd64",
+        "os": "linux",
+        "os.version": "Ubuntu 16.04.7"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "5.5.0_7.x86_64_linux",
+        "sh.brew.bottle.cpu.variant": "core2",
+        "sh.brew.bottle.digest": "cd94b6bc2189df7861c2c32c480f777984865dbab4107f493188feda5a05b80d",
+        "sh.brew.bottle.glibc.version": "2.23",
+        "sh.brew.tab": "{\"homebrew_version\":\"3.1.9-48-g53710f8\",\"changed_files\":[\"libexec/gcc/x86_64-unknown-linux-gnu/5.5.0/install-tools/mkheaders\",\"lib/gcc/5/gcc/x86_64-unknown-linux-gnu/5.5.0/plugin/include/auto-host.h\",\"lib/gcc/5/gcc/x86_64-unknown-linux-gnu/5.5.0/plugin/include/configargs.h\",\"lib/gcc/5/libstdc++.so.6.0.21-gdb.py\",\"libexec/gcc/x86_64-unknown-linux-gnu/5.5.0/liblto_plugin.la\"],\"source_modified_time\":1507629672,\"stdlib\":\"libstdcxx\",\"compiler\":\"gcc-5\",\"runtime_dependencies\":[{\"full_name\":\"gmp\",\"version\":\"6.2.1\",\"declared_directly\":true},{\"full_name\":\"isl@0.18\",\"version\":\"0.18\",\"declared_directly\":true},{\"full_name\":\"mpfr\",\"version\":\"4.1.0\",\"declared_directly\":true},{\"full_name\":\"libmpc\",\"version\":\"1.2.1\",\"declared_directly\":true},{\"full_name\":\"zlib\",\"version\":\"1.2.11\",\"declared_directly\":true},{\"full_name\":\"binutils\",\"version\":\"2.36.1\",\"declared_directly\":true}],\"arch\":\"x86_64\",\"built_on\":{\"os\":\"Linux\",\"os_version\":\"Ubuntu 16.04.7\",\"cpu_family\":\"haswell\",\"glibc_version\":\"2.23\",\"oldest_cpu_family\":\"core2\"}}"
+      }
+    }
+  ],
+  "annotations": {
+    "com.github.package.type": "homebrew_bottle",
+    "org.opencontainers.image.created": "2021-05-26",
+    "org.opencontainers.image.description": "GNU Compiler Collection",
+    "org.opencontainers.image.documentation": "https://formulae.brew.sh/formula/gcc@5",
+    "org.opencontainers.image.ref.name": "5.5.0_7",
+    "org.opencontainers.image.revision": "d7a786bc091baad2ac5bce4e32d36bd7a8aaab0e",
+    "org.opencontainers.image.source": "https://github.com/Homebrew/linuxbrew-core/blob/d7a786bc091baad2ac5bce4e32d36bd7a8aaab0e/Formula/gcc@5.rb",
+    "org.opencontainers.image.title": "gcc@5",
+    "org.opencontainers.image.url": "https://gcc.gnu.org/",
+    "org.opencontainers.image.vendor": "linuxbrew",
+    "org.opencontainers.image.version": "5.5.0_7"
+  }
+}

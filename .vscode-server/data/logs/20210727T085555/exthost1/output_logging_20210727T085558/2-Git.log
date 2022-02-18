@@ -1,0 +1,144 @@
+Validating found git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/ashley
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :work/survey/my-app/src/App.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App.js
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :work/survey/my-app/src/survey.html
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/survey.html
+> git show --textconv :work/survey/my-app/src/App.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App.js
+> git show --textconv :work/survey/my-app/src/index.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/index.js
+> git show --textconv :work/survey/my-app/src/App.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App.js
+> git show --textconv :work/survey/survey-library/src/question_custom.ts
+> git ls-files --stage -- /home/ashley/work/survey/survey-library/src/question_custom.ts
+> git check-ignore -v -z --stdin
+> git show --textconv :work/survey/my-app/src/App.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App.js
+> git show --textconv :work/survey/survey-library/src/react/reactSurvey.tsx
+> git ls-files --stage -- /home/ashley/work/survey/survey-library/src/react/reactSurvey.tsx
+> git check-ignore -v -z --stdin
+> git show --textconv :work/survey/survey-library/src/vue/survey.vue
+> git ls-files --stage -- /home/ashley/work/survey/survey-library/src/vue/survey.vue
+> git check-ignore -v -z --stdin
+> git show --textconv :work/survey/survey-library/src/vue/surveyModel.ts
+> git ls-files --stage -- /home/ashley/work/survey/survey-library/src/vue/surveyModel.ts
+> git check-ignore -v -z --stdin
+> git show --textconv :work/survey/my-app/src/App.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App.js
+> git show --textconv :work/survey/survey-library/src/knockout/koSurveyWindow.ts
+> git ls-files --stage -- /home/ashley/work/survey/survey-library/src/knockout/koSurveyWindow.ts
+> git check-ignore -v -z --stdin
+> git show --textconv :work/survey/survey-library/src/knockout/kosurvey.ts
+> git ls-files --stage -- /home/ashley/work/survey/survey-library/src/knockout/kosurvey.ts
+> git check-ignore -v -z --stdin
+> git show --textconv :work/survey/survey-library/src/knockout/koSurveyWindow.ts
+> git ls-files --stage -- /home/ashley/work/survey/survey-library/src/knockout/koSurveyWindow.ts
+> git show --textconv :work/survey/my-app/src/App.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App.js
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/ashley/work/survey/my-app/src/App.js
+> git show --textconv :work/survey/my-app/node_modules/survey-react/survey.react.d.ts
+> git ls-files --stage -- /home/ashley/work/survey/my-app/node_modules/survey-react/survey.react.d.ts
+> git check-ignore -v -z --stdin
+> git show --textconv :work/survey/my-app/src/App.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App.js
+> git show --textconv :work/survey/my-app/node_modules/survey-react/survey.react.d.ts
+> git ls-files --stage -- /home/ashley/work/survey/my-app/node_modules/survey-react/survey.react.d.ts
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :work/survey/my-app/src/survey.html
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/survey.html
+> git show --textconv :work/survey/my-app/src/App.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App.js
+> git show --textconv :work/survey/my-app/src/App.css
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App.css
+> git show --textconv :work/survey/my-app/src/App.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App.js
+> git check-ignore -v -z --stdin
+> git show --textconv :work/survey/survey-library/docs/Add-Survey-into-your-Web-Page.md
+> git ls-files --stage -- /home/ashley/work/survey/survey-library/docs/Add-Survey-into-your-Web-Page.md
+> git show --textconv :work/survey/survey-library/docs/Getting-Started-The-Very-Basics.md
+> git ls-files --stage -- /home/ashley/work/survey/survey-library/docs/Getting-Started-The-Very-Basics.md
+> git check-ignore -v -z --stdin
+> git show --textconv :work/survey/survey-library/src/dxSurveyService.ts
+> git ls-files --stage -- /home/ashley/work/survey/survey-library/src/dxSurveyService.ts
+> git check-ignore -v -z --stdin
+> git show --textconv :work/survey/my-app/src/App.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App.js
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/ashley/work/survey/my-app/src/App.js
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :work/survey/survey-library/src/dxSurveyService.ts
+> git ls-files --stage -- /home/ashley/work/survey/survey-library/src/dxSurveyService.ts
+> git show --textconv :work/survey/my-app/src/App.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App.js
+> git show --textconv :work/survey/survey-library/src/dxSurveyService.ts
+> git ls-files --stage -- /home/ashley/work/survey/survey-library/src/dxSurveyService.ts
+> git show --textconv :work/survey/survey-library/src/survey.ts
+> git ls-files --stage -- /home/ashley/work/survey/survey-library/src/survey.ts
+> git check-ignore -v -z --stdin
+> git show --textconv :work/survey/survey-library/src/entries/chunks/model.ts
+> git ls-files --stage -- /home/ashley/work/survey/survey-library/src/entries/chunks/model.ts
+> git check-ignore -v -z --stdin
+> git show --textconv :work/survey/survey-library/testCafe/dxService/runSurveyOneTime.js
+> git ls-files --stage -- /home/ashley/work/survey/survey-library/testCafe/dxService/runSurveyOneTime.js
+> git check-ignore -v -z --stdin
+> git show --textconv :work/survey/survey-library/tests/surveytests.ts
+> git ls-files --stage -- /home/ashley/work/survey/survey-library/tests/surveytests.ts
+> git check-ignore -v -z --stdin
+> git show --textconv :work/survey/survey-library/src/dxSurveyService.ts
+> git ls-files --stage -- /home/ashley/work/survey/survey-library/src/dxSurveyService.ts
+> git show --textconv :work/survey/survey-library/docs/Add-Survey-into-your-Web-Page.md
+> git ls-files --stage -- /home/ashley/work/survey/survey-library/docs/Add-Survey-into-your-Web-Page.md
+> git check-ignore -v -z --stdin
+> git show --textconv :work/survey/my-app/src/App.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App.js
+> git show --textconv :work/survey/my-app/src/survey.html
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/survey.html
+> git show --textconv :work/survey/my-app/src/App.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App.js
+> git show --textconv :work/survey/my-app/node_modules/survey-react/survey.react.d.ts
+> git ls-files --stage -- /home/ashley/work/survey/my-app/node_modules/survey-react/survey.react.d.ts
+> git show --textconv :work/survey/my-app/src/App.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App.js
+> git check-ignore -v -z --stdin
+> git show --textconv :work/survey/my-app/node_modules/survey-react/survey.react.d.ts
+> git ls-files --stage -- /home/ashley/work/survey/my-app/node_modules/survey-react/survey.react.d.ts
+> git check-ignore -v -z --stdin
+> git show --textconv :work/survey/my-app/src/index.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/index.js
+> git show --textconv :work/survey/my-app/node_modules/survey-react/survey.react.d.ts
+> git ls-files --stage -- /home/ashley/work/survey/my-app/node_modules/survey-react/survey.react.d.ts
+> git check-ignore -v -z --stdin
+> git show --textconv :work/survey/my-app/src/App.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App.js
+> git show --textconv :work/survey/my-app/src/App.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App.js
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/ashley/work/survey/my-app/src/App.js
+> git show --textconv :work/survey/my-app/src/Result
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/Result
+> git check-ignore -v -z --stdin
+> git show --textconv :work/survey/my-app/src/Result.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/Result.js
+> git check-ignore -v -z --stdin
+> git show --textconv :work/survey/my-app/src/App.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App.js
+> git show --textconv :work/survey/my-app/src/Result.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/Result.js
+> git show --textconv :work/survey/my-app/src/App.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App.js

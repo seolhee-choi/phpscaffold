@@ -1,0 +1,2 @@
+[2021-07-29 09:00:39:725] ExternalDiffCommand
+TypeError: Cannot read property 'uri' of undefined

@@ -1,0 +1,17 @@
+Validating found git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/ashley/work/survey
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :my-app/src/App.js
+> git show --textconv :my-app/src/Result.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/App.js
+> git ls-files --stage -- /home/ashley/work/survey/my-app/src/Result.js
+> git check-ignore -v -z --stdin
+> git cat-file -s 4e31ce8e4043f29f6347a82536f13e961940fcf8
+> git cat-file -s 10b4e717f0381b54d9e2a367b3401aab87352dce
